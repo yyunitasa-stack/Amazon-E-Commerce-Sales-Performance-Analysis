@@ -151,13 +151,13 @@ Metode fulfillment Amazon menghasilkan penjualan sekitar 2,3 kali lebih tinggi d
 ---
 
 ## 🎯 Business Recommendations
-**1. Evaluasi Tren Penjualan:** Memantau tren penjualan bulanan dan mengevaluasi faktor yang berkaitan dengan penurunan penjualan.
+**1. Evaluasi tren penjualan:** memantau tren penjualan bulanan dan mengevaluasi faktor yang berkaitan dengan penurunan penjualan.
 
-**2. Optimasi Kategori Produk:** Mempertahankan performa kategori Set dan mengembangkan kategori lain yang berpotensi meningkatkan penjualan.
+**2. Optimasi kategori produk:** mempertahankan performa kategori Set dan mengembangkan kategori lain yang berpotensi meningkatkan penjualan.
 
-**3. Pengembangan Pasar:** Mempertahankan penjualan di wilayah utama dan mengidentifikasi peluang pasar di wilayah lain.
+**3. Pengembangan pasar:** mempertahankan penjualan di wilayah utama dan mengidentifikasi peluang pasar di wilayah lain.
 
-**4. Pemantauan Order:** Memantau transaksi Unshipped dan Cancelled pada fulfillment Amazon untuk mendukung evaluasi operasional.
+**4. Pemantauan order:** memantau transaksi Unshipped dan Cancelled pada fulfillment Amazon untuk mendukung evaluasi operasional.
 
 ---
 
