@@ -34,7 +34,8 @@ Analisis dilakukan melalui beberapa tahapan berikut.
 
 ## ⚙️ Data Preparation
 **Data Understanding**
-<p>Analisis dilakukan menggunakan dataset Amazon E-Commerce Sales yang terdiri dari 128.975 baris dan 24 kolom.</p>
+
+Analisis dilakukan menggunakan dataset Amazon E-Commerce Sales yang terdiri dari 128.975 baris dan 24 kolom.
 
 |**Kolom**|**Deskripsi**|
 |---|---|
@@ -54,7 +55,8 @@ Analisis dilakukan melalui beberapa tahapan berikut.
 
 
 **Data Cleaning**
-<p>Dilakukan pemeriksaan dan perbaikan kualitas data sebagai berikut sebelum dilakukan analisis.</p>
+
+Dilakukan pemeriksaan dan perbaikan kualitas data sebagai berikut sebelum dilakukan analisis.
 
 |**Issue**|**Finding**|**Handling**|
 |---|---|---|
@@ -131,16 +133,20 @@ Berdasarkan metode fulfillment, Amazon memiliki proporsi transaksi dengan status
 ## 💡Key Insights
 
 **1. Penurunan penjualan perlu diperhatikan**
-<p>Penjualan mencapai puncaknya pada April, kemudian mengalami penurunan secara bertahap hingga Juni. Pola ini menunjukkan adanya penurunan performa penjualan setelah April yang perlu diperhatikan karena dapat memengaruhi pencapaian penjualan secara keseluruhan apabila berlanjut.</p>
+
+Penjualan mencapai puncaknya pada April, kemudian mengalami penurunan secara bertahap hingga Juni. Pola ini menunjukkan adanya penurunan performa penjualan setelah April yang perlu diperhatikan karena dapat memengaruhi pencapaian penjualan secara keseluruhan apabila berlanjut.
 
 **2. Kategori Set sangat berpengaruh terhadap performa penjualan**
-<p>Set menjadi kategori dengan kontribusi penjualan terbesar. Namun, kategori ini juga mengalami penurunan penjualan terbesar setelah April dibandingkan kategori lainnya. Hal ini menunjukkan bahwa performa kategori Set memiliki peran penting terhadap penjualan secara keseluruhan, sehingga penurunan pada kategori tersebut berpotensi memberikan dampak yang signifikan terhadap performa penjualan.</p>
+
+Set menjadi kategori dengan kontribusi penjualan terbesar. Namun, kategori ini juga mengalami penurunan penjualan terbesar setelah April dibandingkan kategori lainnya. Hal ini menunjukkan bahwa performa kategori Set memiliki peran penting terhadap penjualan secara keseluruhan, sehingga penurunan pada kategori tersebut berpotensi memberikan dampak yang signifikan terhadap performa penjualan.
 
 **3. Penjualan terkonsentrasi pada beberapa wilayah utama**
-<p>Lima wilayah dengan penjualan tertinggi menyumbang sekitar 55,9% dari total penjualan, dengan Maharashtra sebagai kontributor terbesar. Hal ini menunjukkan bahwa beberapa wilayah memiliki peran penting terhadap performa penjualan. Mempertahankan performa di wilayah utama sekaligus mengembangkan pasar lain dapat menjadi pendekatan untuk mendukung pertumbuhan penjualan.</p>
+
+Lima wilayah dengan penjualan tertinggi menyumbang sekitar 55,9% dari total penjualan, dengan Maharashtra sebagai kontributor terbesar. Hal ini menunjukkan bahwa beberapa wilayah memiliki peran penting terhadap performa penjualan. Mempertahankan performa di wilayah utama sekaligus mengembangkan pasar lain dapat menjadi pendekatan untuk mendukung pertumbuhan penjualan.
 
 **4. Amazon menjadi channel fulfillment utama, tetapi memiliki problem rate lebih tinggi**
-<p>Metode fulfillment Amazon menghasilkan penjualan sekitar 2,3 kali lebih tinggi dibandingkan Merchant. Namun, proporsi transaksi berstatus Unshipped dan Cancelled pada Amazon juga jauh lebih tinggi. Hal ini menunjukkan bahwa meskipun Amazon menjadi kontributor penjualan yang lebih besar, proporsi transaksi bermasalah pada metode fulfillment tersebut juga lebih tinggi dibandingkan Merchant.</p>
+
+Metode fulfillment Amazon menghasilkan penjualan sekitar 2,3 kali lebih tinggi dibandingkan Merchant. Namun, proporsi transaksi berstatus Unshipped dan Cancelled pada Amazon juga jauh lebih tinggi. Hal ini menunjukkan bahwa meskipun Amazon menjadi kontributor penjualan yang lebih besar, proporsi transaksi bermasalah pada metode fulfillment tersebut juga lebih tinggi dibandingkan Merchant.
 
 ---
 
