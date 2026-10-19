@@ -8,6 +8,7 @@ Pertumbuhan bisnis <i>e-commerce</i> menghasilkan volume data transaksi yang bes
 Project ini menganalisis data transaksi Amazon <i>e-commerce</i> selama trimester kedua tahun 2022, untuk mengevaluasi performa penjualan dan mengidentifikasi pola penjualan. Analisis dilakukan dimulai dengan melakukan data <i>preparation</i>, data <i>cleaning</i>, dan <i>Exploratory Data Analysis (EDA)</i> menggunakan Python, kemudian divisualisasikan dalam bentuk <i>dashboard</i> interaktif menggunakan Tableau.
 
 <b> Business Questions</b>
+
 Analisis ini berfokus pada beberapa pertanyaan utama, sebagai berikut.
 - Bagaimana perkembangan penjualan selama periode yang dianalisis, dan kapan terjadi perubahan atau penurunan yang signifikan?
 - Kategori produk mana yang memberikan kontribusi terbesar terhadap penjualan, dan kategori mana yang mengalami penurunan paling besar?
@@ -20,11 +21,11 @@ Analisis ini berfokus pada beberapa pertanyaan utama, sebagai berikut.
 ## 🔑 Key Findings
 |Fokus Analisis|Key Finding|
 |---|---|
-|**Sales Performance**|Penjualan mengalami **penurunan** setelah mencapai **puncak penjualan** pada Bulan **April** senilai ₹30,6 juta Rupee, menjadi ₹24,8 juta Rupee pada Bulan **Juni**|
-|**Category**|**Set** menjadi kategori dengan kontribusi **penjualan terbesar**, yaitu sekitar ₹41,0 juta Rupee, tetapi **penjualannya menurun** setelah **April**|
+|**Sales Performance**|Penjualan mengalami **penurunan** setelah mencapai **puncak penjualan** pada Bulan April senilai **₹30,6 juta Rupee**, menjadi **₹24,8 juta Rupee** pada Bulan Juni|
+|**Category**|**Set** menjadi kategori dengan kontribusi **penjualan terbesar**, yaitu sekitar **₹41,0 juta Rupee**, tetapi **penjualannya menurun** setelah April|
 |**Geographic Performance**|**Maharashtra** menjadi wilayah dengan **penjualan tertinggi**, mencapai sekitar ₹13,97 juta Rupee. **Lima wilayah** dengan penjualan tertinggi berkontribusi sebesar **55,9%** terhadap total penjualan|
 |**Order Status**|Penjualan melalui fulfillment Amazon mencapai sekitar **2,3 kali lipat** dibandingkan dengan Merchant|
-|**Fulfillment**|Proporsi transaksi berstatus **Unshipped dan Cancelled** pada fulfillment Amazon mencapai sekitar **13,5%**, lebih tinggi dibandingkan Merchant yang sebesar 1,3%|
+|**Fulfillment**|Proporsi transaksi berstatus **Unshipped dan Cancelled** pada fulfillment Amazon mencapai sekitar **13,5%**, lebih tinggi dibandingkan Merchant yang sebesar **1,3%**|
 
 ## 🧭 Project Workflow
 Analisis dilakukan melalui beberapa tahapan berikut.
