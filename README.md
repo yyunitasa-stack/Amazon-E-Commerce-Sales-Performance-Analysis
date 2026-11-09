@@ -5,7 +5,7 @@
 ## 🗂️ Project Overview
 Pertumbuhan bisnis <i>e-commerce</i> menghasilkan volume data transaksi yang besar, mulai dari penjualan, kategori produk, wilayah pengiriman, metode fulfillment, hingga status pesanan. Namun, data transaksi dalam jumlah besar belum tentu memberikan gambaran yang jelas mengenai performa bisnis apabila belum dianalisis secara terstruktur.
 
-Project ini menganalisis data transaksi Amazon <i>e-commerce</i> selama trimester kedua tahun 2022, untuk mengevaluasi performa penjualan dan mengidentifikasi pola penjualan. Analisis dilakukan dimulai dengan melakukan data <i>preparation</i>, data <i>cleaning</i>, dan <i>Exploratory Data Analysis (EDA)</i> menggunakan Python, kemudian divisualisasikan dalam bentuk <i>dashboard</i> interaktif menggunakan Tableau.
+Project ini menganalisis data transaksi Amazon <i>e-commerce</i> selama triwulan II tahun 2022, untuk mengevaluasi performa penjualan dan mengidentifikasi pola penjualan. Analisis dilakukan dimulai dengan melakukan data <i>preparation</i>, data <i>cleaning</i>, dan <i>Exploratory Data Analysis (EDA)</i> menggunakan Python, kemudian divisualisasikan dalam bentuk <i>dashboard</i> interaktif menggunakan Tableau.
 
 <b> Business Questions</b>
 
@@ -180,4 +180,4 @@ Data pada Bulan Maret hanya mencakup tanggal 31 Maret 2022, sehingga tidak dapat
 - **💾 Dataset:** [Amazon E-Commerce Sales Dataset - Kaggle](https://www.kaggle.com/datasets/thedevastator/unlock-profits-with-e-commerce-sales-data?resource=download)
 - **🧹 Data Cleaning on Python:** [Step by Step Data Cleaning - Notebook](https://github.com/yyunitasa-stack/Amazon-E-Commerce-Sales-Performance-Analysis/blob/main/Data%20Cleaning%20%26%20EDA/Step%20by%20Step%20Data%20Cleaning_Amazon%20E-Commerce.ipynb)
 - **🔬 Exploratory Data Analysis:** [View Notebook](https://github.com/yyunitasa-stack/Amazon-E-Commerce-Sales-Performance-Analysis/blob/main/Data%20Cleaning%20%26%20EDA/EDA_Amazon%20E-Commerse.ipynb)
-- **📊 Dashboard:** [View Dashboard](https://public.tableau.com/app/profile/yunita.ayu.indah.sari/viz/AmazonE-commerceSalesPerformance/Dashboard?publish=yes)
+- **📊 Dashboard:** [View Dashboard - Tableau](https://public.tableau.com/app/profile/yunita.ayu.indah.sari/viz/AmazonE-commerceSalesPerformance/Dashboard?publish=yes)

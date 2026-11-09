@@ -693,10 +693,10 @@ order_id,date,status,fulfilment,sales_channel,ship_service_level,category,size,c
 402-4832715-9188334,2022-04-30,Shipped,Amazon,Amazon.in,Expedited,kurta,L,Shipped,1,399.0,WEST BENGAL,False,4,April
 408-9898972-5365901,2022-04-30,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,Set,XL,Shipped,1,1099.0,TELANGANA,False,4,April
 408-7275140-3593905,2022-04-30,Shipped,Amazon,Amazon.in,Expedited,Western Dress,M,Shipped,1,744.0,MAHARASHTRA,False,4,April
-405-7907546-1330739,2022-04-30,Shipped,Amazon,Amazon.in,Expedited,kurta,3XL,Shipped,1,329.0,DADRA AND NAGAR HAVELI,False,4,April
-405-7732656-4733913,2022-04-30,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,kurta,3XL,Shipped,1,362.0,DADRA AND NAGAR HAVELI,False,4,April
-405-7732656-4733913,2022-04-30,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,kurta,3XL,Shipped,1,342.0,DADRA AND NAGAR HAVELI,False,4,April
-405-7732656-4733913,2022-04-30,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,kurta,3XL,Shipped,1,363.0,DADRA AND NAGAR HAVELI,False,4,April
+405-7907546-1330739,2022-04-30,Shipped,Amazon,Amazon.in,Expedited,kurta,3XL,Shipped,1,329.0,DADRA AND NAGAR,False,4,April
+405-7732656-4733913,2022-04-30,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,kurta,3XL,Shipped,1,362.0,DADRA AND NAGAR,False,4,April
+405-7732656-4733913,2022-04-30,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,kurta,3XL,Shipped,1,342.0,DADRA AND NAGAR,False,4,April
+405-7732656-4733913,2022-04-30,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,kurta,3XL,Shipped,1,363.0,DADRA AND NAGAR,False,4,April
 171-5431988-8713937,2022-04-30,Shipped,Amazon,Amazon.in,Expedited,kurta,L,Shipped,1,459.0,MAHARASHTRA,False,4,April
 171-6687746-4020351,2022-04-30,Shipped,Amazon,Amazon.in,Expedited,Set,L,Shipped,1,888.0,UTTAR PRADESH,False,4,April
 403-3045245-2207560,2022-04-30,Shipped,Amazon,Amazon.in,Expedited,kurta,3XL,Shipped,1,376.0,DELHI,False,4,April
@@ -1320,7 +1320,7 @@ S02-9107114-0460608,2022-04-30,Shipped,Amazon,Non-Amazon,Standard,Set,XL,Unshipp
 406-9459295-8485143,2022-04-30,Shipped,Amazon,Amazon.in,Expedited,Western Dress,XL,Shipped,1,377.0,TELANGANA,False,4,April
 402-5188332-6308343,2022-04-30,Shipped,Amazon,Amazon.in,Expedited,Set,XXL,Shipped,1,824.0,BIHAR,False,4,April
 406-1497026-9443544,2022-04-30,Shipped,Amazon,Amazon.in,Expedited,Top,M,Shipped,1,329.0,MADHYA PRADESH,False,4,April
-407-2404727-1249969,2022-04-30,Shipped,Amazon,Amazon.in,Expedited,Set,XL,Shipped,1,801.0,DADRA AND NAGAR HAVELI,False,4,April
+407-2404727-1249969,2022-04-30,Shipped,Amazon,Amazon.in,Expedited,Set,XL,Shipped,1,801.0,DADRA AND NAGAR,False,4,April
 171-4975675-8067566,2022-04-30,Shipped,Amazon,Amazon.in,Expedited,Set,M,Shipped,1,626.0,TAMIL NADU,False,4,April
 402-1383841-4914747,2022-04-30,Shipped,Amazon,Amazon.in,Expedited,Western Dress,3XL,Shipped,1,744.0,KERALA,False,4,April
 402-3381063-0781161,2022-04-30,Shipped,Amazon,Amazon.in,Expedited,Blouse,Free,Shipped,1,383.0,MAHARASHTRA,False,4,April
@@ -6666,7 +6666,7 @@ S02-0668744-7285638,2022-04-28,Shipped,Amazon,Non-Amazon,Standard,Set,XXL,Unship
 171-7687960-9377156,2022-04-26,Shipped - Returned to Seller,Merchant,Amazon.in,Standard,Set,L,Shipped,1,597.0,MAHARASHTRA,False,4,April
 406-6073591-4409943,2022-04-26,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,kurta,XL,Shipped,1,685.0,MAHARASHTRA,False,4,April
 404-4387391-2828347,2022-04-26,Shipped,Amazon,Amazon.in,Expedited,Bottom,XXL,Shipped,1,360.0,UTTAR PRADESH,False,4,April
-404-3246898-0154725,2022-04-26,Shipped,Amazon,Amazon.in,Expedited,Set,M,Shipped,1,759.0,DADRA AND NAGAR HAVELI,False,4,April
+404-3246898-0154725,2022-04-26,Shipped,Amazon,Amazon.in,Expedited,Set,M,Shipped,1,759.0,DADRA AND NAGAR,False,4,April
 406-8753631-2746716,2022-04-26,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,Set,3XL,Shipped,1,1556.0,DELHI,False,4,April
 408-2955502-9709129,2022-04-26,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,Set,M,Shipped,1,654.0,HARYANA,False,4,April
 402-9153567-0453905,2022-04-26,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,kurta,S,Shipped,1,353.0,MAHARASHTRA,False,4,April
@@ -10019,7 +10019,7 @@ S02-0668744-7285638,2022-04-28,Shipped,Amazon,Non-Amazon,Standard,Set,XXL,Unship
 403-3735653-8013936,2022-04-24,Shipped,Amazon,Amazon.in,Expedited,kurta,L,Shipped,1,329.0,MAHARASHTRA,False,4,April
 403-3735653-8013936,2022-04-24,Shipped,Amazon,Amazon.in,Expedited,kurta,XL,Shipped,1,329.0,MAHARASHTRA,False,4,April
 171-8779095-1129159,2022-04-24,Shipped,Amazon,Amazon.in,Expedited,kurta,XL,Shipped,1,499.0,RAJASTHAN,False,4,April
-404-4658721-7518747,2022-04-24,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,Set,L,Shipped,1,1432.0,DADRA AND NAGAR HAVELI,False,4,April
+404-4658721-7518747,2022-04-24,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,Set,L,Shipped,1,1432.0,DADRA AND NAGAR,False,4,April
 171-1554703-0392357,2022-04-24,Shipped,Amazon,Amazon.in,Expedited,kurta,M,Shipped,1,353.0,UTTAR PRADESH,False,4,April
 171-3401779-7762734,2022-04-24,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,Set,M,Shipped,1,1099.0,KARNATAKA,False,4,April
 403-8868047-6761159,2022-04-24,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,Western Dress,XL,Shipped,1,744.0,KARNATAKA,False,4,April
@@ -10074,12 +10074,12 @@ S02-0668744-7285638,2022-04-28,Shipped,Amazon,Non-Amazon,Standard,Set,XXL,Unship
 405-5861119-9101101,2022-04-24,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,Western Dress,L,Shipped,1,744.0,GUJARAT,False,4,April
 402-2577646-3233124,2022-04-24,Shipped,Amazon,Amazon.in,Expedited,kurta,S,Shipped,1,549.0,WEST BENGAL,False,4,April
 171-9614280-7460301,2022-04-24,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,Western Dress,3XL,Shipped,1,859.0,HARYANA,False,4,April
-404-4749938-6883557,2022-04-24,Cancelled,Merchant,Amazon.in,Standard,Set,L,Shipped,0,606.0,DADRA AND NAGAR HAVELI,False,4,April
+404-4749938-6883557,2022-04-24,Cancelled,Merchant,Amazon.in,Standard,Set,L,Shipped,0,606.0,DADRA AND NAGAR,False,4,April
 405-4776248-6815541,2022-04-24,Shipped,Amazon,Amazon.in,Expedited,Set,S,Shipped,1,1112.0,ASSAM,False,4,April
 402-5491420-4559528,2022-04-24,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,Set,M,Shipped,1,759.0,KARNATAKA,False,4,April
 407-6519766-5591513,2022-04-24,Shipped,Amazon,Amazon.in,Expedited,kurta,XXL,Shipped,1,459.0,MAHARASHTRA,False,4,April
 407-7998235-3509160,2022-04-24,Shipped,Amazon,Amazon.in,Expedited,kurta,M,Shipped,1,399.0,TAMIL NADU,False,4,April
-408-5729186-1879552,2022-04-24,Cancelled,Merchant,Amazon.in,Standard,Set,XS,Shipped,0,606.0,DADRA AND NAGAR HAVELI,False,4,April
+408-5729186-1879552,2022-04-24,Cancelled,Merchant,Amazon.in,Standard,Set,XS,Shipped,0,606.0,DADRA AND NAGAR,False,4,April
 402-8078438-8609910,2022-04-24,Cancelled,Merchant,Amazon.in,Standard,kurta,XL,Shipped,0,606.0,MAHARASHTRA,False,4,April
 406-3221792-1717917,2022-04-24,Shipped,Amazon,Amazon.in,Expedited,Set,M,Shipped,1,1099.0,WEST BENGAL,False,4,April
 406-9896186-3692318,2022-04-24,Shipped,Amazon,Amazon.in,Expedited,Blouse,S,Shipped,1,625.0,MAHARASHTRA,False,4,April
@@ -11380,7 +11380,7 @@ S02-0668744-7285638,2022-04-28,Shipped,Amazon,Non-Amazon,Standard,Set,XXL,Unship
 403-0238124-7680331,2022-04-23,Shipped,Amazon,Amazon.in,Expedited,Top,L,Shipped,1,487.0,HARYANA,False,4,April
 408-8964432-5853912,2022-04-23,Shipped,Amazon,Amazon.in,Expedited,Western Dress,XL,Shipped,1,744.0,KARNATAKA,False,4,April
 407-4183178-8393921,2022-04-23,Shipped,Amazon,Amazon.in,Expedited,kurta,XXL,Shipped,1,368.0,CHHATTISGARH,False,4,April
-171-6053320-9209153,2022-04-23,Shipped,Amazon,Amazon.in,Expedited,kurta,XXL,Shipped,1,329.0,DADRA AND NAGAR HAVELI,False,4,April
+171-6053320-9209153,2022-04-23,Shipped,Amazon,Amazon.in,Expedited,kurta,XXL,Shipped,1,329.0,DADRA AND NAGAR,False,4,April
 171-6148057-2873914,2022-04-23,Shipped,Amazon,Amazon.in,Expedited,Ethnic Dress,XS,Shipped,1,721.0,TAMIL NADU,True,4,April
 171-2395007-4189125,2022-04-23,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,Western Dress,XS,Shipped,1,699.0,TAMIL NADU,True,4,April
 406-4167476-3205963,2022-04-23,Shipped,Amazon,Amazon.in,Expedited,Set,M,Shipped,1,626.0,MAHARASHTRA,False,4,April
@@ -14023,7 +14023,7 @@ S02-4520403-8992257,2022-04-22,Shipped,Amazon,Non-Amazon,Standard,kurta,M,Unship
 403-8641629-3628322,2022-04-22,Shipped,Amazon,Amazon.in,Expedited,Top,M,Shipped,1,625.0,TELANGANA,False,4,April
 407-4147591-2650709,2022-04-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,kurta,3XL,Shipped,1,316.0,MAHARASHTRA,False,4,April
 407-2456358-5401149,2022-04-22,Cancelled,Merchant,Amazon.in,Standard,kurta,3XL,Shipped,0,300.95,MAHARASHTRA,False,4,April
-171-6426560-3302742,2022-04-22,Shipped,Amazon,Amazon.in,Expedited,Western Dress,M,Shipped,1,859.0,DADRA AND NAGAR HAVELI,False,4,April
+171-6426560-3302742,2022-04-22,Shipped,Amazon,Amazon.in,Expedited,Western Dress,M,Shipped,1,859.0,DADRA AND NAGAR,False,4,April
 402-4200377-6488324,2022-04-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,kurta,L,Shipped,1,459.0,KERALA,False,4,April
 407-9065492-7433913,2022-04-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,kurta,S,Shipped,1,477.0,KARNATAKA,False,4,April
 408-5057751-0798766,2022-04-22,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,Set,L,Shipped,1,499.0,KARNATAKA,False,4,April
@@ -17273,7 +17273,7 @@ S02-4520403-8992257,2022-04-22,Shipped,Amazon,Non-Amazon,Standard,kurta,M,Unship
 403-0111792-0193941,2022-04-20,Shipped,Amazon,Amazon.in,Expedited,Set,XL,Shipped,1,635.0,GUJARAT,False,4,April
 403-8130197-1833910,2022-04-20,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,Set,XXL,Shipped,1,1338.0,MAHARASHTRA,False,4,April
 408-6858034-5569900,2022-04-20,Shipped,Amazon,Amazon.in,Expedited,Set,XS,Shipped,1,969.0,KERALA,False,4,April
-405-5962211-7769957,2022-04-20,Shipped,Amazon,Amazon.in,Expedited,kurta,3XL,Shipped,1,299.0,DADRA AND NAGAR HAVELI,False,4,April
+405-5962211-7769957,2022-04-20,Shipped,Amazon,Amazon.in,Expedited,kurta,3XL,Shipped,1,299.0,DADRA AND NAGAR,False,4,April
 403-8863745-8425966,2022-04-20,Shipped,Amazon,Amazon.in,Expedited,Set,XXL,Shipped,1,922.0,ASSAM,False,4,April
 407-1635379-8877926,2022-04-20,Shipped,Amazon,Amazon.in,Expedited,Western Dress,XS,Shipped,1,725.0,KERALA,False,4,April
 402-9196068-5466744,2022-04-20,Shipped,Amazon,Amazon.in,Expedited,kurta,L,Shipped,1,487.0,MAHARASHTRA,False,4,April
@@ -18633,7 +18633,7 @@ S02-4371187-1658758,2022-04-19,Shipped,Amazon,Non-Amazon,Standard,kurta,XXL,Unsh
 407-9291546-7925126,2022-04-19,Shipped,Amazon,Amazon.in,Expedited,Set,XXL,Shipped,1,626.0,PUNJAB,False,4,April
 408-4213982-1177902,2022-04-19,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,Set,L,Shipped,1,0.0,DELHI,False,4,April
 403-0491669-1829145,2022-04-19,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,Top,XL,Shipped,1,387.0,KARNATAKA,False,4,April
-402-2023031-8229935,2022-04-19,Shipped,Amazon,Amazon.in,Expedited,Set,L,Shipped,1,799.0,DADRA AND NAGAR HAVELI,False,4,April
+402-2023031-8229935,2022-04-19,Shipped,Amazon,Amazon.in,Expedited,Set,L,Shipped,1,799.0,DADRA AND NAGAR,False,4,April
 408-0053938-4204357,2022-04-19,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,Set,XL,Shipped,1,499.0,TAMIL NADU,False,4,April
 171-0770294-1249928,2022-04-19,Shipped,Amazon,Amazon.in,Expedited,Set,M,Shipped,1,1099.0,ASSAM,False,4,April
 408-5655232-1945149,2022-04-19,Shipped,Amazon,Amazon.in,Expedited,Set,S,Shipped,1,653.0,MAHARASHTRA,False,4,April
@@ -19512,7 +19512,7 @@ S02-4371187-1658758,2022-04-19,Shipped,Amazon,Non-Amazon,Standard,kurta,XXL,Unsh
 402-8151891-0091504,2022-04-18,Shipped,Amazon,Amazon.in,Expedited,Top,3XL,Shipped,1,545.0,TAMIL NADU,False,4,April
 404-9757754-0135558,2022-04-18,Shipped,Amazon,Amazon.in,Expedited,Set,XL,Shipped,1,666.0,TELANGANA,False,4,April
 404-2483618-1570769,2022-04-18,Shipped,Amazon,Amazon.in,Expedited,Set,L,Shipped,1,666.0,TELANGANA,False,4,April
-405-6449583-8791528,2022-04-18,Cancelled,Merchant,Amazon.in,Standard,Set,S,Shipped,0,921.9,DADRA AND NAGAR HAVELI,False,4,April
+405-6449583-8791528,2022-04-18,Cancelled,Merchant,Amazon.in,Standard,Set,S,Shipped,0,921.9,DADRA AND NAGAR,False,4,April
 404-7121369-9285159,2022-04-18,Shipped,Amazon,Amazon.in,Expedited,Top,M,Shipped,1,540.0,RAJASTHAN,False,4,April
 171-7761123-6065124,2022-04-18,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,kurta,M,Shipped,1,475.0,BIHAR,False,4,April
 403-6498834-4213944,2022-04-18,Shipped,Amazon,Amazon.in,Expedited,kurta,L,Shipped,1,353.0,RAJASTHAN,False,4,April
@@ -19761,7 +19761,7 @@ S02-4371187-1658758,2022-04-19,Shipped,Amazon,Non-Amazon,Standard,kurta,XXL,Unsh
 403-3312946-3376350,2022-04-18,Shipped,Amazon,Amazon.in,Expedited,Western Dress,3XL,Shipped,1,744.0,GUJARAT,False,4,April
 171-7380931-5029948,2022-04-18,Shipped,Amazon,Amazon.in,Expedited,Set,3XL,Shipped,1,788.0,UTTARAKHAND,False,4,April
 408-8977054-5459528,2022-04-18,Shipped,Amazon,Amazon.in,Expedited,Set,XL,Shipped,1,792.0,TAMIL NADU,False,4,April
-405-9006894-6553121,2022-04-18,Shipped,Amazon,Amazon.in,Expedited,kurta,XS,Shipped,1,399.0,DADRA AND NAGAR HAVELI,False,4,April
+405-9006894-6553121,2022-04-18,Shipped,Amazon,Amazon.in,Expedited,kurta,XS,Shipped,1,399.0,DADRA AND NAGAR,False,4,April
 402-3332349-8845914,2022-04-18,Shipped,Amazon,Amazon.in,Expedited,Set,M,Shipped,1,635.0,ANDHRA PRADESH,False,4,April
 404-7206948-0625109,2022-04-18,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,Top,XXL,Shipped,1,574.0,MANIPUR,False,4,April
 403-8447314-6148331,2022-04-18,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,Western Dress,M,Shipped,1,744.0,KERALA,False,4,April
@@ -23881,8 +23881,8 @@ S02-6209878-4265840,2022-04-18,Shipped,Amazon,Non-Amazon,Standard,kurta,S,Unship
 403-0454880-7865904,2022-04-16,Shipped,Amazon,Amazon.in,Expedited,Top,3XL,Shipped,1,329.0,MAHARASHTRA,False,4,April
 403-9006125-6293111,2022-04-16,Shipped,Amazon,Amazon.in,Expedited,Western Dress,L,Shipped,1,744.0,KARNATAKA,False,4,April
 405-9330853-0644307,2022-04-16,Cancelled,Merchant,Amazon.in,Standard,Set,S,Shipped,0,622.86,UTTAR PRADESH,False,4,April
-408-8838857-0023548,2022-04-16,Shipped,Amazon,Amazon.in,Expedited,Set,XS,Shipped,1,582.0,DADRA AND NAGAR HAVELI,False,4,April
-408-8838857-0023548,2022-04-16,Shipped,Amazon,Amazon.in,Expedited,Set,XS,Shipped,1,613.0,DADRA AND NAGAR HAVELI,False,4,April
+408-8838857-0023548,2022-04-16,Shipped,Amazon,Amazon.in,Expedited,Set,XS,Shipped,1,582.0,DADRA AND NAGAR,False,4,April
+408-8838857-0023548,2022-04-16,Shipped,Amazon,Amazon.in,Expedited,Set,XS,Shipped,1,613.0,DADRA AND NAGAR,False,4,April
 402-5648006-2538729,2022-04-16,Cancelled,Amazon,Amazon.in,Expedited,Western Dress,XS,Cancelled,0,606.0,JHARKHAND,False,4,April
 171-5175985-6721129,2022-04-16,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,kurta,XL,Shipped,1,363.0,ANDHRA PRADESH,False,4,April
 171-2092532-7241137,2022-04-16,Shipped,Amazon,Amazon.in,Expedited,kurta,XL,Shipped,1,357.0,ANDHRA PRADESH,False,4,April
@@ -25377,7 +25377,7 @@ S02-6209878-4265840,2022-04-18,Shipped,Amazon,Non-Amazon,Standard,kurta,S,Unship
 407-6364770-9443500,2022-04-15,Shipped,Amazon,Amazon.in,Expedited,Set,L,Shipped,1,759.0,DELHI,False,4,April
 407-8660073-5963554,2022-04-15,Shipped,Amazon,Amazon.in,Expedited,Set,XXL,Shipped,1,539.0,PUNJAB,False,4,April
 407-4392063-8039521,2022-04-15,Shipped,Amazon,Amazon.in,Expedited,kurta,L,Shipped,1,368.0,KERALA,False,4,April
-402-1294782-6084311,2022-04-15,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,kurta,M,Shipped,1,399.0,DADRA AND NAGAR HAVELI,False,4,April
+402-1294782-6084311,2022-04-15,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,kurta,M,Shipped,1,399.0,DADRA AND NAGAR,False,4,April
 405-2888802-6789922,2022-04-15,Shipped,Amazon,Amazon.in,Expedited,kurta,XXL,Shipped,1,399.0,UTTAR PRADESH,False,4,April
 404-9660065-7627541,2022-04-15,Shipped,Amazon,Amazon.in,Expedited,kurta,L,Shipped,1,376.0,KERALA,False,4,April
 171-7777149-9186750,2022-04-15,Cancelled,Amazon,Amazon.in,Expedited,kurta,XS,Cancelled,0,606.0,TAMIL NADU,False,4,April
@@ -29592,7 +29592,7 @@ S02-1719737-2263449,2022-04-14,Shipped,Amazon,Non-Amazon,Standard,Set,M,Unshippe
 403-8322203-4385117,2022-04-13,Cancelled,Amazon,Amazon.in,Expedited,kurta,M,Cancelled,0,606.0,KARNATAKA,False,4,April
 404-5815962-6455552,2022-04-13,Shipped,Amazon,Amazon.in,Expedited,Western Dress,L,Shipped,1,885.0,UTTAR PRADESH,False,4,April
 403-2824205-7986752,2022-04-13,Shipped,Amazon,Amazon.in,Expedited,kurta,XXL,Shipped,1,518.0,MAHARASHTRA,False,4,April
-406-4097989-8235563,2022-04-13,Shipped,Amazon,Amazon.in,Expedited,Western Dress,3XL,Shipped,1,859.0,DADRA AND NAGAR HAVELI,False,4,April
+406-4097989-8235563,2022-04-13,Shipped,Amazon,Amazon.in,Expedited,Western Dress,3XL,Shipped,1,859.0,DADRA AND NAGAR,False,4,April
 405-5419932-2777161,2022-04-13,Cancelled,Merchant,Amazon.in,Standard,Set,XL,Shipped,0,995.54,WEST BENGAL,False,4,April
 405-9872635-5212338,2022-04-13,Shipped,Amazon,Amazon.in,Expedited,kurta,XL,Shipped,1,511.0,DELHI,False,4,April
 402-1980463-2357115,2022-04-13,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,kurta,M,Shipped,1,295.0,WEST BENGAL,False,4,April
@@ -31263,7 +31263,7 @@ S02-1719737-2263449,2022-04-14,Shipped,Amazon,Non-Amazon,Standard,Set,M,Unshippe
 171-3729883-7549937,2022-04-11,Cancelled,Amazon,Amazon.in,Expedited,Set,M,Unshipped,1,1186.0,MADHYA PRADESH,False,4,April
 171-8588805-2190744,2022-04-11,Shipped - Returned to Seller,Merchant,Amazon.in,Standard,kurta,XXL,Shipped,1,318.0,DELHI,False,4,April
 402-1545696-7090760,2022-04-11,Shipped,Amazon,Amazon.in,Expedited,Set,XL,Shipped,1,583.0,MAHARASHTRA,False,4,April
-404-1757235-8741164,2022-04-11,Shipped,Amazon,Amazon.in,Expedited,kurta,XL,Shipped,1,329.0,DADRA AND NAGAR HAVELI,False,4,April
+404-1757235-8741164,2022-04-11,Shipped,Amazon,Amazon.in,Expedited,kurta,XL,Shipped,1,329.0,DADRA AND NAGAR,False,4,April
 405-1638910-7579536,2022-04-11,Shipped - Returned to Seller,Merchant,Amazon.in,Standard,Set,3XL,Shipped,1,631.0,JAMMU & KASHMIR,False,4,April
 407-0448685-0002722,2022-04-11,Shipped,Amazon,Amazon.in,Expedited,Set,XXL,Shipped,1,788.0,MAHARASHTRA,False,4,April
 171-7980538-4094729,2022-04-11,Shipped,Amazon,Amazon.in,Expedited,Set,S,Shipped,1,586.0,KARNATAKA,False,4,April
@@ -33238,7 +33238,7 @@ S02-1719737-2263449,2022-04-14,Shipped,Amazon,Non-Amazon,Standard,Set,M,Unshippe
 402-1701638-6598747,2022-04-10,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,Western Dress,L,Shipped,1,413.0,RAJASTHAN,False,4,April
 404-9418739-4394743,2022-04-10,Shipped,Amazon,Amazon.in,Expedited,Set,3XL,Shipped,1,916.0,DELHI,False,4,April
 402-7952455-5281110,2022-04-10,Shipped,Amazon,Amazon.in,Expedited,Set,XXL,Shipped,1,788.0,MAHARASHTRA,False,4,April
-407-3290669-7579529,2022-04-10,Cancelled,Amazon,Amazon.in,Expedited,Set,M,Unshipped,1,788.0,DADRA AND NAGAR HAVELI,False,4,April
+407-3290669-7579529,2022-04-10,Cancelled,Amazon,Amazon.in,Expedited,Set,M,Unshipped,1,788.0,DADRA AND NAGAR,False,4,April
 403-2666496-7900346,2022-04-10,Shipped,Amazon,Amazon.in,Expedited,kurta,XXL,Shipped,1,399.0,KARNATAKA,False,4,April
 407-1342623-0021107,2022-04-10,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,kurta,M,Shipped,1,459.0,MAHARASHTRA,False,4,April
 405-8815724-5824301,2022-04-10,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,Set,L,Shipped,1,474.0,TAMIL NADU,False,4,April
@@ -36486,7 +36486,7 @@ S02-7079543-7296404,2022-04-09,Shipped,Amazon,Non-Amazon,Standard,Set,XL,Unshipp
 404-8365384-8067506,2022-04-08,Shipped,Amazon,Amazon.in,Expedited,Western Dress,XS,Shipped,1,744.0,KARNATAKA,False,4,April
 404-6607108-4873114,2022-04-08,Cancelled,Amazon,Amazon.in,Expedited,kurta,3XL,Unshipped,1,487.0,KARNATAKA,False,4,April
 408-8678875-8872306,2022-04-08,Shipped,Amazon,Amazon.in,Expedited,kurta,L,Shipped,1,399.0,DELHI,False,4,April
-402-0004504-9481170,2022-04-08,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,Set,L,Shipped,1,751.0,DADRA AND NAGAR HAVELI,False,4,April
+402-0004504-9481170,2022-04-08,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,Set,L,Shipped,1,751.0,DADRA AND NAGAR,False,4,April
 404-1057427-5677161,2022-04-08,Shipped,Amazon,Amazon.in,Expedited,Western Dress,L,Shipped,1,744.0,KERALA,False,4,April
 407-9487738-4994712,2022-04-08,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,Set,XS,Shipped,1,888.0,MAHARASHTRA,False,4,April
 171-6925708-9263545,2022-04-08,Shipped,Amazon,Amazon.in,Expedited,kurta,M,Shipped,1,597.0,KARNATAKA,False,4,April
@@ -39942,7 +39942,7 @@ S02-7079543-7296404,2022-04-09,Shipped,Amazon,Non-Amazon,Standard,Set,XL,Unshipp
 402-3364944-3299550,2022-04-06,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,kurta,XL,Shipped,1,579.0,DELHI,False,4,April
 408-9017508-4845901,2022-04-06,Cancelled,Merchant,Amazon.in,Standard,kurta,M,Shipped,0,606.0,RAJASTHAN,False,4,April
 408-2270424-6886718,2022-04-06,Cancelled,Amazon,Amazon.in,Expedited,kurta,S,Cancelled,0,606.0,RAJASTHAN,False,4,April
-402-0285595-7841953,2022-04-06,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,Set,L,Shipped,1,683.0,DADRA AND NAGAR HAVELI,False,4,April
+402-0285595-7841953,2022-04-06,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,Set,L,Shipped,1,683.0,DADRA AND NAGAR,False,4,April
 171-3636995-5778742,2022-04-06,Shipped,Amazon,Amazon.in,Expedited,kurta,XXL,Shipped,1,476.0,TELANGANA,False,4,April
 404-9690084-9877162,2022-04-06,Shipped,Amazon,Amazon.in,Expedited,Set,XL,Shipped,1,788.0,ANDHRA PRADESH,False,4,April
 408-6423611-8036346,2022-04-06,Cancelled,Amazon,Amazon.in,Expedited,kurta,XXL,Unshipped,1,399.0,TAMIL NADU,False,4,April
@@ -41491,7 +41491,7 @@ S02-1054900-0383149,2022-04-06,Shipped,Amazon,Non-Amazon,Standard,Set,3XL,Unship
 405-8095070-6525135,2022-04-05,Cancelled,Amazon,Amazon.in,Expedited,Set,S,Cancelled,0,606.0,ANDHRA PRADESH,False,4,April
 171-0654633-8380329,2022-04-05,Shipped,Amazon,Amazon.in,Expedited,Set,XL,Shipped,1,899.0,UTTAR PRADESH,False,4,April
 407-4707539-3648308,2022-04-05,Shipped,Amazon,Amazon.in,Expedited,kurta,L,Shipped,1,449.0,UTTAR PRADESH,False,4,April
-402-7894973-5133145,2022-04-05,Cancelled,Amazon,Amazon.in,Expedited,Set,S,Unshipped,1,955.0,DADRA AND NAGAR HAVELI,False,4,April
+402-7894973-5133145,2022-04-05,Cancelled,Amazon,Amazon.in,Expedited,Set,S,Unshipped,1,955.0,DADRA AND NAGAR,False,4,April
 404-8964654-4475518,2022-04-05,Shipped,Amazon,Amazon.in,Expedited,Set,L,Shipped,1,698.0,MAHARASHTRA,False,4,April
 404-7156987-7470750,2022-04-05,Shipped,Amazon,Amazon.in,Expedited,kurta,S,Shipped,1,419.0,PUDUCHERRY,False,4,April
 407-3057316-4737918,2022-04-05,Cancelled,Amazon,Amazon.in,Expedited,Set,XXL,Cancelled,0,606.0,MAHARASHTRA,False,4,April
@@ -42064,7 +42064,7 @@ S02-1054900-0383149,2022-04-06,Shipped,Amazon,Non-Amazon,Standard,Set,3XL,Unship
 408-6662708-1397151,2022-04-05,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,Set,M,Shipped,1,0.0,ANDHRA PRADESH,False,4,April
 406-8077975-4809968,2022-04-05,Shipped,Amazon,Amazon.in,Expedited,Set,M,Shipped,1,1079.0,UTTARAKHAND,False,4,April
 407-8169759-1924335,2022-04-05,Cancelled,Amazon,Amazon.in,Expedited,Set,XXL,Cancelled,0,606.0,ODISHA,False,4,April
-405-1121400-1739562,2022-04-05,Shipped,Amazon,Amazon.in,Expedited,Top,L,Shipped,1,469.0,DADRA AND NAGAR HAVELI,False,4,April
+405-1121400-1739562,2022-04-05,Shipped,Amazon,Amazon.in,Expedited,Top,L,Shipped,1,469.0,DADRA AND NAGAR,False,4,April
 407-2644737-1369955,2022-04-05,Shipped,Amazon,Amazon.in,Expedited,Set,XS,Shipped,1,774.0,HARYANA,False,4,April
 402-1274630-5764336,2022-04-05,Shipped,Amazon,Amazon.in,Expedited,Set,M,Shipped,1,683.0,KARNATAKA,False,4,April
 406-6657962-8323525,2022-04-05,Shipped - Returned to Seller,Merchant,Amazon.in,Standard,Top,XL,Shipped,1,259.0,KARNATAKA,False,4,April
@@ -43345,7 +43345,7 @@ S02-1054900-0383149,2022-04-06,Shipped,Amazon,Non-Amazon,Standard,Set,3XL,Unship
 408-1802154-0193153,2022-04-04,Shipped,Amazon,Amazon.in,Expedited,Set,XS,Shipped,1,657.0,TAMIL NADU,False,4,April
 402-6325782-9005143,2022-04-04,Shipped,Amazon,Amazon.in,Expedited,kurta,S,Shipped,1,452.0,TAMIL NADU,False,4,April
 408-2372669-6957916,2022-04-04,Shipped,Amazon,Amazon.in,Expedited,Set,3XL,Shipped,1,698.0,TELANGANA,False,4,April
-405-2892142-9581133,2022-04-04,Shipped,Amazon,Amazon.in,Expedited,Set,M,Shipped,1,775.0,DADRA AND NAGAR HAVELI,False,4,April
+405-2892142-9581133,2022-04-04,Shipped,Amazon,Amazon.in,Expedited,Set,M,Shipped,1,775.0,DADRA AND NAGAR,False,4,April
 407-4140968-7088301,2022-04-04,Shipped,Amazon,Amazon.in,Expedited,Set,3XL,Shipped,1,927.0,KERALA,False,4,April
 403-6846100-2927539,2022-04-04,Shipped,Amazon,Amazon.in,Expedited,kurta,L,Shipped,1,481.0,HIMACHAL PRADESH,False,4,April
 403-6846100-2927539,2022-04-04,Shipped,Amazon,Amazon.in,Expedited,kurta,L,Shipped,1,358.0,HIMACHAL PRADESH,False,4,April
@@ -45376,7 +45376,7 @@ S02-1893992-5176330,2022-04-04,Shipped,Amazon,Non-Amazon,Standard,kurta,M,Unship
 402-0350227-3451552,2022-04-03,Shipped,Amazon,Amazon.in,Expedited,kurta,M,Shipped,1,495.0,WEST BENGAL,False,4,April
 402-0293277-7328365,2022-04-03,Cancelled,Merchant,Amazon.in,Standard,kurta,M,Shipped,0,471.43,WEST BENGAL,False,4,April
 408-1299994-2018707,2022-04-03,Shipped,Amazon,Amazon.in,Expedited,Set,XXL,Shipped,1,1154.0,MAHARASHTRA,False,4,April
-408-1693811-8713941,2022-04-03,Shipped,Amazon,Amazon.in,Expedited,kurta,XL,Shipped,1,426.0,DADRA AND NAGAR HAVELI,False,4,April
+408-1693811-8713941,2022-04-03,Shipped,Amazon,Amazon.in,Expedited,kurta,XL,Shipped,1,426.0,DADRA AND NAGAR,False,4,April
 405-9491306-7371530,2022-04-03,Shipped,Amazon,Amazon.in,Expedited,Set,XS,Shipped,1,799.0,KARNATAKA,False,4,April
 405-7128082-5371519,2022-04-03,Shipped,Amazon,Amazon.in,Expedited,Set,XS,Shipped,1,698.0,KARNATAKA,False,4,April
 404-9873814-3930724,2022-04-03,Shipped,Amazon,Amazon.in,Expedited,Western Dress,M,Shipped,1,1033.0,UTTAR PRADESH,False,4,April
@@ -47599,7 +47599,7 @@ S02-1893992-5176330,2022-04-04,Shipped,Amazon,Non-Amazon,Standard,kurta,M,Unship
 408-3326004-1502741,2022-04-01,Shipped,Amazon,Amazon.in,Expedited,Set,XXL,Shipped,1,899.0,KARNATAKA,False,4,April
 406-9029452-0685937,2022-04-01,Shipped,Amazon,Amazon.in,Expedited,Set,XS,Shipped,1,791.0,ASSAM,False,4,April
 405-1088970-4625131,2022-04-01,Cancelled,Amazon,Amazon.in,Expedited,kurta,M,Cancelled,0,606.0,KARNATAKA,False,4,April
-402-6404474-3515512,2022-04-01,Shipped,Amazon,Amazon.in,Expedited,Set,XS,Shipped,1,1147.0,DADRA AND NAGAR HAVELI,False,4,April
+402-6404474-3515512,2022-04-01,Shipped,Amazon,Amazon.in,Expedited,Set,XS,Shipped,1,1147.0,DADRA AND NAGAR,False,4,April
 407-5511163-7458724,2022-04-01,Shipped,Amazon,Amazon.in,Expedited,Set,XL,Shipped,1,1112.0,HIMACHAL PRADESH,False,4,April
 406-7383149-6914715,2022-04-01,Shipped,Amazon,Amazon.in,Expedited,Set,M,Shipped,1,955.0,ANDHRA PRADESH,False,4,April
 171-2246464-7642700,2022-04-01,Shipped,Amazon,Amazon.in,Expedited,Set,3XL,Shipped,1,729.0,HARYANA,False,4,April
@@ -59378,7 +59378,7 @@ S02-6759355-9760302,2022-05-28,Shipped,Amazon,Non-Amazon,Standard,kurta,M,Unship
 402-0861627-7906711,2022-05-23,Shipped,Amazon,Amazon.in,Expedited,Set,3XL,Shipped,1,612.0,JAMMU & KASHMIR,False,5,May
 408-6594964-3688317,2022-05-23,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,Top,M,Shipped,1,0.0,HARYANA,False,5,May
 406-1805558-5106704,2022-05-23,Cancelled,Amazon,Amazon.in,Expedited,kurta,M,Unshipped,1,469.0,KERALA,False,5,May
-402-3733077-8817927,2022-05-23,Cancelled,Amazon,Amazon.in,Expedited,Top,3XL,Cancelled,0,606.0,DADRA AND NAGAR HAVELI,False,5,May
+402-3733077-8817927,2022-05-23,Cancelled,Amazon,Amazon.in,Expedited,Top,3XL,Cancelled,0,606.0,DADRA AND NAGAR,False,5,May
 402-4619379-8920359,2022-05-23,Cancelled,Amazon,Amazon.in,Expedited,kurta,L,Unshipped,1,487.0,MAHARASHTRA,False,5,May
 407-5095021-2557968,2022-05-23,Shipped,Amazon,Amazon.in,Expedited,Western Dress,XL,Shipped,1,999.0,TELANGANA,False,5,May
 405-4537293-1122757,2022-05-23,Shipped,Amazon,Amazon.in,Expedited,Set,S,Shipped,1,680.0,TELANGANA,False,5,May
@@ -66649,7 +66649,7 @@ S02-9257091-2152452,2022-05-22,Shipped,Amazon,Non-Amazon,Standard,kurta,XL,Unshi
 404-1990707-9953925,2022-05-17,Shipped,Amazon,Amazon.in,Expedited,kurta,XL,Shipped,1,345.0,MAHARASHTRA,False,5,May
 403-5767938-3829941,2022-05-17,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,kurta,M,Shipped,1,635.0,UTTAR PRADESH,False,5,May
 171-1834584-0748359,2022-05-17,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,Set,XL,Shipped,1,605.0,DELHI,False,5,May
-404-9858475-0279556,2022-05-17,Shipped,Amazon,Amazon.in,Expedited,kurta,M,Shipped,1,487.0,DADRA AND NAGAR HAVELI,False,5,May
+404-9858475-0279556,2022-05-17,Shipped,Amazon,Amazon.in,Expedited,kurta,M,Shipped,1,487.0,DADRA AND NAGAR,False,5,May
 405-0031181-7297906,2022-05-17,Shipped,Amazon,Amazon.in,Expedited,kurta,XXL,Shipped,1,475.0,ODISHA,False,5,May
 404-0058042-2929936,2022-05-17,Cancelled,Amazon,Amazon.in,Expedited,kurta,XL,Cancelled,0,606.0,MAHARASHTRA,False,5,May
 405-5250332-2677134,2022-05-17,Shipped,Amazon,Amazon.in,Expedited,Western Dress,L,Shipped,1,668.0,TELANGANA,False,5,May
@@ -68588,7 +68588,7 @@ S02-9257091-2152452,2022-05-22,Shipped,Amazon,Non-Amazon,Standard,kurta,XL,Unshi
 171-0232860-2618726,2022-05-15,Cancelled,Merchant,Amazon.in,Standard,kurta,L,Shipped,0,341.9,MAHARASHTRA,False,5,May
 403-7889767-3504307,2022-05-15,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,Western Dress,M,Shipped,1,771.0,MAHARASHTRA,False,5,May
 171-4815769-9670715,2022-05-15,Cancelled,Merchant,Amazon.in,Standard,kurta,L,Shipped,0,341.9,MAHARASHTRA,False,5,May
-402-0357164-6769110,2022-05-15,Shipped,Amazon,Amazon.in,Expedited,Set,S,Shipped,1,696.0,DADRA AND NAGAR HAVELI,False,5,May
+402-0357164-6769110,2022-05-15,Shipped,Amazon,Amazon.in,Expedited,Set,S,Shipped,1,696.0,DADRA AND NAGAR,False,5,May
 405-8288313-5173965,2022-05-15,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,Set,M,Shipped,1,560.0,MAHARASHTRA,False,5,May
 405-4686350-0039569,2022-05-15,Shipped,Amazon,Amazon.in,Expedited,kurta,S,Shipped,1,349.0,PUNJAB,False,5,May
 171-0816740-0076338,2022-05-15,Cancelled,Merchant,Amazon.in,Standard,kurta,L,Shipped,0,341.9,MAHARASHTRA,False,5,May
@@ -69537,7 +69537,7 @@ S02-9736323-0094708,2022-05-15,Shipped,Amazon,Non-Amazon,Standard,kurta,3XL,Unsh
 403-3911581-6193906,2022-05-15,Shipped,Amazon,Amazon.in,Expedited,Set,XXL,Shipped,1,666.0,BIHAR,False,5,May
 402-0271367-9473142,2022-05-15,Shipped,Amazon,Amazon.in,Expedited,Set,XL,Shipped,1,612.0,TELANGANA,False,5,May
 406-9973324-5786745,2022-05-15,Shipped,Amazon,Amazon.in,Expedited,Top,XS,Shipped,1,574.0,GUJARAT,False,5,May
-407-8585845-6882715,2022-05-15,Shipped - Returned to Seller,Merchant,Amazon.in,Standard,Western Dress,XXL,Shipped,1,771.0,DADRA AND NAGAR HAVELI,False,5,May
+407-8585845-6882715,2022-05-15,Shipped - Returned to Seller,Merchant,Amazon.in,Standard,Western Dress,XXL,Shipped,1,771.0,DADRA AND NAGAR,False,5,May
 407-2240921-4747532,2022-05-15,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,Western Dress,L,Shipped,1,771.0,MAHARASHTRA,False,5,May
 405-4498399-2043521,2022-05-15,Shipped,Amazon,Amazon.in,Expedited,kurta,XXL,Shipped,1,471.0,WEST BENGAL,False,5,May
 405-0000852-1461915,2022-05-15,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,Set,L,Shipped,1,560.0,TAMIL NADU,False,5,May
@@ -70126,7 +70126,7 @@ S02-9736323-0094708,2022-05-15,Shipped,Amazon,Non-Amazon,Standard,kurta,3XL,Unsh
 403-4857387-2423502,2022-05-14,Shipped - Returned to Seller,Merchant,Amazon.in,Standard,kurta,L,Shipped,1,459.0,WEST BENGAL,False,5,May
 407-2227908-7905960,2022-05-14,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,Ethnic Dress,L,Shipped,1,373.0,MAHARASHTRA,False,5,May
 171-3588183-5476356,2022-05-14,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,Set,XS,Shipped,1,1186.0,KARNATAKA,False,5,May
-403-4672918-0549129,2022-05-14,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,Top,L,Shipped,1,388.0,DADRA AND NAGAR HAVELI,False,5,May
+403-4672918-0549129,2022-05-14,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,Top,L,Shipped,1,388.0,DADRA AND NAGAR,False,5,May
 408-6174130-8621900,2022-05-14,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,Set,S,Shipped,1,635.0,KARNATAKA,False,5,May
 402-4111308-0281946,2022-05-14,Shipped,Amazon,Amazon.in,Expedited,kurta,XL,Shipped,1,665.0,HARYANA,False,5,May
 402-4111308-0281946,2022-05-14,Shipped,Amazon,Amazon.in,Expedited,kurta,XL,Shipped,1,709.0,HARYANA,False,5,May
@@ -70167,7 +70167,7 @@ S02-9736323-0094708,2022-05-15,Shipped,Amazon,Non-Amazon,Standard,kurta,3XL,Unsh
 408-1224661-5869106,2022-05-14,Shipped,Amazon,Amazon.in,Expedited,Set,XL,Shipped,1,759.0,KARNATAKA,False,5,May
 407-0021342-0749924,2022-05-14,Cancelled,Merchant,Amazon.in,Standard,kurta,XS,Shipped,0,446.67,TAMIL NADU,False,5,May
 406-0119767-8803549,2022-05-14,Shipped,Amazon,Amazon.in,Expedited,kurta,XXL,Shipped,1,487.0,TAMIL NADU,False,5,May
-403-6249350-4459523,2022-05-14,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,kurta,L,Shipped,1,325.0,DADRA AND NAGAR HAVELI,False,5,May
+403-6249350-4459523,2022-05-14,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,kurta,L,Shipped,1,325.0,DADRA AND NAGAR,False,5,May
 408-0695943-6924305,2022-05-14,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,Western Dress,XL,Shipped,1,999.0,WEST BENGAL,False,5,May
 402-7281154-6481101,2022-05-14,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,Set,XS,Shipped,1,478.0,ODISHA,False,5,May
 404-0820268-9768337,2022-05-14,Cancelled,Amazon,Amazon.in,Expedited,Western Dress,XXL,Unshipped,1,885.0,RAJASTHAN,False,5,May
@@ -71396,7 +71396,7 @@ S02-9736323-0094708,2022-05-15,Shipped,Amazon,Non-Amazon,Standard,kurta,3XL,Unsh
 405-6289209-4751532,2022-05-13,Shipped - Returned to Seller,Merchant,Amazon.in,Standard,Western Dress,M,Shipped,1,771.0,TELANGANA,False,5,May
 405-0782382-5209152,2022-05-13,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,Western Dress,S,Shipped,1,443.0,TAMIL NADU,False,5,May
 405-8439835-6849951,2022-05-13,Shipped - Returned to Seller,Merchant,Amazon.in,Standard,Set,XL,Shipped,1,1186.0,MAHARASHTRA,False,5,May
-405-6998129-1641157,2022-05-13,Shipped,Amazon,Amazon.in,Expedited,Set,3XL,Shipped,1,499.0,DADRA AND NAGAR HAVELI,False,5,May
+405-6998129-1641157,2022-05-13,Shipped,Amazon,Amazon.in,Expedited,Set,3XL,Shipped,1,499.0,DADRA AND NAGAR,False,5,May
 403-9723481-0626732,2022-05-13,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,Set,M,Shipped,1,788.0,TELANGANA,False,5,May
 405-3170634-8893168,2022-05-13,Shipped,Amazon,Amazon.in,Expedited,Set,3XL,Shipped,1,852.0,MAHARASHTRA,False,5,May
 405-7941730-7723527,2022-05-13,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,kurta,XS,Shipped,1,469.0,KARNATAKA,False,5,May
@@ -71600,7 +71600,7 @@ S02-9736323-0094708,2022-05-15,Shipped,Amazon,Non-Amazon,Standard,kurta,3XL,Unsh
 171-3089743-4839529,2022-05-13,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,Western Dress,3XL,Shipped,1,771.0,TELANGANA,False,5,May
 402-3155782-5897907,2022-05-13,Shipped,Amazon,Amazon.in,Expedited,Set,3XL,Shipped,1,635.0,TELANGANA,False,5,May
 402-9541542-0734715,2022-05-13,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,Set,M,Shipped,1,1364.0,KARNATAKA,False,5,May
-408-1626770-1330762,2022-05-13,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,Set,XXL,Shipped,1,1299.0,DADRA AND NAGAR HAVELI,False,5,May
+408-1626770-1330762,2022-05-13,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,Set,XXL,Shipped,1,1299.0,DADRA AND NAGAR,False,5,May
 408-1580378-1724304,2022-05-13,Shipped,Amazon,Amazon.in,Expedited,Set,M,Shipped,1,999.0,GUJARAT,False,5,May
 408-4304426-5875516,2022-05-13,Shipped,Amazon,Amazon.in,Expedited,kurta,3XL,Shipped,1,665.0,KERALA,False,5,May
 405-4652075-9269944,2022-05-13,Cancelled,Merchant,Amazon.in,Standard,Set,XXL,Shipped,0,951.43,KARNATAKA,False,5,May
@@ -73892,8 +73892,8 @@ S02-9736323-0094708,2022-05-15,Shipped,Amazon,Non-Amazon,Standard,kurta,3XL,Unsh
 406-3097919-4327537,2022-05-11,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,Western Dress,XL,Shipped,1,771.0,KARNATAKA,False,5,May
 402-1890807-7798730,2022-05-11,Shipped,Amazon,Amazon.in,Expedited,kurta,XXL,Shipped,1,635.0,MAHARASHTRA,False,5,May
 404-8841840-6494736,2022-05-11,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,kurta,L,Shipped,1,399.0,KARNATAKA,False,5,May
-407-8417680-5137167,2022-05-11,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,Western Dress,M,Shipped,1,771.0,DADRA AND NAGAR HAVELI,False,5,May
-407-8417680-5137167,2022-05-11,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,Western Dress,L,Shipped,1,771.0,DADRA AND NAGAR HAVELI,False,5,May
+407-8417680-5137167,2022-05-11,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,Western Dress,M,Shipped,1,771.0,DADRA AND NAGAR,False,5,May
+407-8417680-5137167,2022-05-11,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,Western Dress,L,Shipped,1,771.0,DADRA AND NAGAR,False,5,May
 406-1643454-5082754,2022-05-11,Shipped,Amazon,Amazon.in,Expedited,Set,S,Shipped,1,699.0,DELHI,False,5,May
 406-4474110-6797132,2022-05-11,Shipped,Amazon,Amazon.in,Expedited,kurta,XXL,Shipped,1,471.0,KERALA,False,5,May
 405-9487185-8449126,2022-05-11,Shipped,Amazon,Amazon.in,Expedited,kurta,XL,Shipped,1,625.0,DELHI,False,5,May
@@ -74037,7 +74037,7 @@ S02-9736323-0094708,2022-05-15,Shipped,Amazon,Non-Amazon,Standard,kurta,3XL,Unsh
 171-2078708-7552349,2022-05-11,Shipped,Amazon,Amazon.in,Expedited,kurta,L,Shipped,1,301.0,RAJASTHAN,False,5,May
 402-6314419-0440321,2022-05-11,Shipped,Amazon,Amazon.in,Expedited,kurta,S,Shipped,1,349.0,TAMIL NADU,False,5,May
 404-9050283-0576311,2022-05-11,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,kurta,M,Shipped,1,301.0,TELANGANA,False,5,May
-403-0026931-9068358,2022-05-11,Shipped,Amazon,Amazon.in,Expedited,Set,S,Shipped,1,1068.0,DADRA AND NAGAR HAVELI,False,5,May
+403-0026931-9068358,2022-05-11,Shipped,Amazon,Amazon.in,Expedited,Set,S,Shipped,1,1068.0,DADRA AND NAGAR,False,5,May
 403-6867428-2252365,2022-05-11,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,Top,S,Shipped,1,518.0,DELHI,False,5,May
 402-4148500-4341944,2022-05-11,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,Western Dress,M,Shipped,1,434.0,KARNATAKA,False,5,May
 406-4412526-4409935,2022-05-11,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,Set,M,Shipped,1,653.0,GUJARAT,False,5,May
@@ -74388,7 +74388,7 @@ S02-9736323-0094708,2022-05-15,Shipped,Amazon,Non-Amazon,Standard,kurta,3XL,Unsh
 406-6093930-1815565,2022-05-10,Cancelled,Merchant,Amazon.in,Standard,kurta,XL,Shipped,0,540.95,TAMIL NADU,False,5,May
 403-7323569-4606705,2022-05-10,Shipped,Amazon,Amazon.in,Expedited,Set,S,Shipped,1,696.0,MAHARASHTRA,False,5,May
 402-1028454-2416357,2022-05-10,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,kurta,M,Shipped,1,487.0,KARNATAKA,False,5,May
-404-9284084-4693151,2022-05-10,Shipped,Amazon,Amazon.in,Expedited,Set,XS,Shipped,1,549.0,DADRA AND NAGAR HAVELI,False,5,May
+404-9284084-4693151,2022-05-10,Shipped,Amazon,Amazon.in,Expedited,Set,XS,Shipped,1,549.0,DADRA AND NAGAR,False,5,May
 402-9393013-7302736,2022-05-10,Shipped,Amazon,Amazon.in,Expedited,Top,XL,Shipped,1,423.0,TAMIL NADU,False,5,May
 402-7812867-8966722,2022-05-10,Shipped,Amazon,Amazon.in,Expedited,Top,XL,Shipped,1,341.0,TAMIL NADU,False,5,May
 405-6911421-0920329,2022-05-10,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,Set,XXL,Shipped,1,429.0,MAHARASHTRA,False,5,May
@@ -74576,7 +74576,7 @@ S02-9736323-0094708,2022-05-15,Shipped,Amazon,Non-Amazon,Standard,kurta,3XL,Unsh
 403-9312534-6626740,2022-05-10,Shipped,Amazon,Amazon.in,Expedited,Western Dress,XL,Shipped,1,791.0,MAHARASHTRA,False,5,May
 405-5808253-2054718,2022-05-10,Shipped,Amazon,Amazon.in,Expedited,kurta,M,Shipped,1,517.0,JHARKHAND,False,5,May
 407-6470479-3785143,2022-05-10,Cancelled,Amazon,Amazon.in,Expedited,kurta,3XL,Unshipped,1,382.0,MADHYA PRADESH,False,5,May
-403-8048313-8941925,2022-05-10,Shipped,Amazon,Amazon.in,Expedited,Set,S,Shipped,1,999.0,DADRA AND NAGAR HAVELI,False,5,May
+403-8048313-8941925,2022-05-10,Shipped,Amazon,Amazon.in,Expedited,Set,S,Shipped,1,999.0,DADRA AND NAGAR,False,5,May
 406-7724342-6701954,2022-05-10,Shipped,Amazon,Amazon.in,Expedited,Set,M,Shipped,1,999.0,MAHARASHTRA,False,5,May
 404-1585954-8675516,2022-05-10,Shipped,Amazon,Amazon.in,Expedited,Western Dress,XL,Shipped,1,989.0,MAHARASHTRA,False,5,May
 171-5221998-8235501,2022-05-10,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,Set,M,Shipped,1,545.0,PUNJAB,False,5,May
@@ -78337,7 +78337,7 @@ S02-0321109-3503821,2022-05-08,Shipped,Amazon,Non-Amazon,Standard,Set,3XL,Unship
 403-5386916-3376369,2022-05-07,Shipped,Amazon,Amazon.in,Expedited,Set,M,Shipped,1,607.0,MAHARASHTRA,True,5,May
 404-3353578-1281945,2022-05-07,Shipped,Amazon,Amazon.in,Expedited,Set,M,Shipped,1,825.0,KARNATAKA,False,5,May
 408-7777041-0683553,2022-05-07,Shipped,Amazon,Amazon.in,Expedited,Top,XL,Shipped,1,343.0,MAHARASHTRA,False,5,May
-403-1115449-9710742,2022-05-07,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,kurta,L,Shipped,1,385.0,DADRA AND NAGAR HAVELI,False,5,May
+403-1115449-9710742,2022-05-07,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,kurta,L,Shipped,1,385.0,DADRA AND NAGAR,False,5,May
 171-7729646-1039560,2022-05-07,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,kurta,3XL,Shipped,1,382.0,DELHI,False,5,May
 405-0370914-7092366,2022-05-07,Shipped,Amazon,Amazon.in,Expedited,Top,XL,Shipped,1,550.0,UTTAR PRADESH,False,5,May
 405-7434115-6131532,2022-05-07,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,Western Dress,XL,Shipped,1,776.0,WEST BENGAL,False,5,May
@@ -84372,7 +84372,7 @@ S02-9283576-7038225,2022-05-04,Shipped,Amazon,Non-Amazon,Standard,Western Dress,
 171-4423216-8327530,2022-05-04,Shipped,Amazon,Amazon.in,Expedited,Ethnic Dress,M,Shipped,1,845.0,CHHATTISGARH,False,5,May
 405-4496738-7903567,2022-05-04,Shipped,Amazon,Amazon.in,Expedited,Set,3XL,Shipped,1,759.0,WEST BENGAL,False,5,May
 408-2942316-2406712,2022-05-04,Cancelled,Amazon,Amazon.in,Expedited,Set,XXL,Cancelled,0,606.0,UTTAR PRADESH,False,5,May
-406-2158590-9846718,2022-05-04,Shipped,Amazon,Amazon.in,Expedited,kurta,L,Shipped,1,399.0,DADRA AND NAGAR HAVELI,False,5,May
+406-2158590-9846718,2022-05-04,Shipped,Amazon,Amazon.in,Expedited,kurta,L,Shipped,1,399.0,DADRA AND NAGAR,False,5,May
 402-1569085-3345912,2022-05-04,Shipped,Amazon,Amazon.in,Expedited,kurta,XS,Shipped,1,399.0,KARNATAKA,False,5,May
 408-5006561-4905127,2022-05-04,Shipped,Amazon,Amazon.in,Expedited,Set,XXL,Shipped,1,591.0,UTTAR PRADESH,False,5,May
 408-5006561-4905127,2022-05-04,Shipped,Amazon,Amazon.in,Expedited,Set,XXL,Shipped,1,529.0,UTTAR PRADESH,False,5,May
@@ -84666,7 +84666,7 @@ S02-9283576-7038225,2022-05-04,Shipped,Amazon,Non-Amazon,Standard,Western Dress,
 171-8722914-6652346,2022-05-03,Shipped,Amazon,Amazon.in,Expedited,kurta,3XL,Shipped,1,533.0,TAMIL NADU,False,5,May
 404-9571453-1258752,2022-05-03,Shipped,Amazon,Amazon.in,Expedited,kurta,M,Shipped,1,376.0,GUJARAT,False,5,May
 403-2562203-5590734,2022-05-03,Cancelled,Amazon,Amazon.in,Expedited,Set,S,Unshipped,1,692.0,UTTARAKHAND,False,5,May
-407-3335366-3045943,2022-05-03,Shipped,Amazon,Amazon.in,Expedited,Set,XL,Shipped,1,801.0,DADRA AND NAGAR HAVELI,False,5,May
+407-3335366-3045943,2022-05-03,Shipped,Amazon,Amazon.in,Expedited,Set,XL,Shipped,1,801.0,DADRA AND NAGAR,False,5,May
 404-1002707-4593127,2022-05-03,Cancelled,Amazon,Amazon.in,Expedited,kurta,3XL,Cancelled,0,606.0,TELANGANA,False,5,May
 404-7992830-8154711,2022-05-03,Shipped,Amazon,Amazon.in,Expedited,Set,M,Shipped,1,599.0,PUNJAB,False,5,May
 171-2225792-9235547,2022-05-03,Shipped,Amazon,Amazon.in,Expedited,Western Dress,M,Shipped,1,807.0,MAHARASHTRA,False,5,May
@@ -85655,7 +85655,7 @@ S02-9283576-7038225,2022-05-04,Shipped,Amazon,Non-Amazon,Standard,Western Dress,
 403-2208201-6669143,2022-05-03,Cancelled,Amazon,Amazon.in,Expedited,kurta,M,Cancelled,0,606.0,DELHI,False,5,May
 406-9700263-2000347,2022-05-03,Shipped,Amazon,Amazon.in,Expedited,kurta,3XL,Shipped,1,351.0,MAHARASHTRA,False,5,May
 402-6257365-0231569,2022-05-03,Shipped,Amazon,Amazon.in,Expedited,Top,XS,Shipped,1,387.0,DELHI,False,5,May
-403-6819282-2601142,2022-05-03,Cancelled,Amazon,Amazon.in,Expedited,Set,L,Cancelled,0,606.0,DADRA AND NAGAR HAVELI,False,5,May
+403-6819282-2601142,2022-05-03,Cancelled,Amazon,Amazon.in,Expedited,Set,L,Cancelled,0,606.0,DADRA AND NAGAR,False,5,May
 403-3739970-4627526,2022-05-03,Shipped,Amazon,Amazon.in,Expedited,kurta,L,Shipped,1,442.0,TELANGANA,False,5,May
 403-1639411-7719537,2022-05-03,Shipped,Amazon,Amazon.in,Expedited,Set,L,Shipped,1,696.0,GUJARAT,False,5,May
 402-7800537-6113112,2022-05-03,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,kurta,XS,Shipped,1,329.0,ASSAM,False,5,May
@@ -85807,7 +85807,7 @@ S02-9283576-7038225,2022-05-04,Shipped,Amazon,Non-Amazon,Standard,Western Dress,
 405-1313746-4597143,2022-05-03,Shipped,Amazon,Amazon.in,Expedited,Top,XL,Shipped,1,432.0,GUJARAT,False,5,May
 405-5734511-9662712,2022-05-03,Shipped,Amazon,Amazon.in,Expedited,kurta,3XL,Shipped,1,424.0,UTTAR PRADESH,False,5,May
 406-1418787-7037167,2022-05-03,Shipped,Amazon,Amazon.in,Expedited,Set,L,Shipped,1,597.0,MAHARASHTRA,False,5,May
-402-8249479-0821915,2022-05-03,Shipped,Amazon,Amazon.in,Expedited,Set,XS,Shipped,1,788.0,DADRA AND NAGAR HAVELI,False,5,May
+402-8249479-0821915,2022-05-03,Shipped,Amazon,Amazon.in,Expedited,Set,XS,Shipped,1,788.0,DADRA AND NAGAR,False,5,May
 404-0409110-7120366,2022-05-03,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,kurta,M,Shipped,1,318.0,WEST BENGAL,False,5,May
 404-9546719-1868314,2022-05-03,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,Top,XL,Shipped,1,487.0,KARNATAKA,False,5,May
 406-4995829-7905138,2022-05-03,Shipped,Amazon,Amazon.in,Expedited,Set,XS,Shipped,1,788.0,KARNATAKA,False,5,May
@@ -87938,7 +87938,7 @@ S02-9283576-7038225,2022-05-04,Shipped,Amazon,Non-Amazon,Standard,Western Dress,
 408-0602182-6065154,2022-05-02,Shipped,Amazon,Amazon.in,Expedited,Set,L,Shipped,1,1115.0,KARNATAKA,False,5,May
 404-0570962-9043551,2022-05-02,Shipped,Amazon,Amazon.in,Expedited,kurta,XL,Shipped,1,487.0,UTTAR PRADESH,False,5,May
 408-6632540-0864308,2022-05-02,Cancelled,Amazon,Amazon.in,Expedited,kurta,L,Cancelled,0,606.0,TELANGANA,False,5,May
-408-5408795-9655509,2022-05-02,Shipped,Amazon,Amazon.in,Expedited,kurta,M,Shipped,1,499.0,DADRA AND NAGAR HAVELI,False,5,May
+408-5408795-9655509,2022-05-02,Shipped,Amazon,Amazon.in,Expedited,kurta,M,Shipped,1,499.0,DADRA AND NAGAR,False,5,May
 402-1662509-9850754,2022-05-02,Shipped,Amazon,Amazon.in,Expedited,Set,M,Shipped,1,597.0,GOA,False,5,May
 407-7818148-7760333,2022-05-02,Shipped,Amazon,Amazon.in,Expedited,kurta,XL,Shipped,1,518.0,TAMIL NADU,False,5,May
 408-2156999-8383539,2022-05-02,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,Set,XL,Shipped,1,547.0,KARNATAKA,False,5,May
@@ -88811,9 +88811,9 @@ S02-9283576-7038225,2022-05-04,Shipped,Amazon,Non-Amazon,Standard,Western Dress,
 406-3931434-4378728,2022-05-01,Shipped,Amazon,Amazon.in,Expedited,kurta,L,Shipped,1,487.0,UTTAR PRADESH,False,5,May
 406-2936408-4625111,2022-05-01,Shipped,Amazon,Amazon.in,Expedited,kurta,XXL,Shipped,1,353.0,UTTAR PRADESH,False,5,May
 171-9940119-7893943,2022-05-01,Shipped,Amazon,Amazon.in,Expedited,Set,S,Shipped,1,655.0,WEST BENGAL,False,5,May
-403-7541281-6375510,2022-05-01,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,Set,XL,Shipped,1,1099.0,DADRA AND NAGAR HAVELI,False,5,May
-403-1812209-6309146,2022-05-01,Shipped,Amazon,Amazon.in,Expedited,Set,XXL,Shipped,1,1115.0,DADRA AND NAGAR HAVELI,False,5,May
-403-1812209-6309146,2022-05-01,Shipped,Amazon,Amazon.in,Expedited,Set,XL,Shipped,1,563.0,DADRA AND NAGAR HAVELI,False,5,May
+403-7541281-6375510,2022-05-01,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,Set,XL,Shipped,1,1099.0,DADRA AND NAGAR,False,5,May
+403-1812209-6309146,2022-05-01,Shipped,Amazon,Amazon.in,Expedited,Set,XXL,Shipped,1,1115.0,DADRA AND NAGAR,False,5,May
+403-1812209-6309146,2022-05-01,Shipped,Amazon,Amazon.in,Expedited,Set,XL,Shipped,1,563.0,DADRA AND NAGAR,False,5,May
 407-8092917-8284343,2022-05-01,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,Set,L,Shipped,1,1186.0,MAHARASHTRA,False,5,May
 407-4276121-3251510,2022-05-01,Shipped,Amazon,Amazon.in,Expedited,Set,L,Shipped,1,799.0,MAHARASHTRA,False,5,May
 407-4276121-3251510,2022-05-01,Shipped,Amazon,Amazon.in,Expedited,Set,L,Shipped,1,759.0,MAHARASHTRA,False,5,May
@@ -89814,7 +89814,7 @@ S02-9283576-7038225,2022-05-04,Shipped,Amazon,Non-Amazon,Standard,Western Dress,
 406-5117236-0371528,2022-05-01,Cancelled,Amazon,Amazon.in,Expedited,Top,3XL,Cancelled,0,606.0,KERALA,False,5,May
 405-8142655-0765941,2022-05-01,Shipped,Amazon,Amazon.in,Expedited,Set,L,Shipped,1,1173.0,KERALA,False,5,May
 405-1450306-5306754,2022-05-01,Shipped,Amazon,Amazon.in,Expedited,kurta,L,Shipped,1,442.0,ANDHRA PRADESH,False,5,May
-407-0935279-1470745,2022-05-01,Cancelled,Merchant,Amazon.in,Standard,Set,S,Shipped,0,1070.54,DADRA AND NAGAR HAVELI,False,5,May
+407-0935279-1470745,2022-05-01,Cancelled,Merchant,Amazon.in,Standard,Set,S,Shipped,0,1070.54,DADRA AND NAGAR,False,5,May
 404-7307147-1468327,2022-05-01,Shipped,Amazon,Amazon.in,Expedited,Set,M,Shipped,1,684.0,GUJARAT,False,5,May
 408-0628396-7888328,2022-05-01,Shipped,Amazon,Amazon.in,Expedited,kurta,XXL,Shipped,1,376.0,GUJARAT,False,5,May
 408-4052096-8550757,2022-05-01,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,kurta,5XL,Shipped,1,696.0,MADHYA PRADESH,False,5,May
@@ -94646,7 +94646,7 @@ S02-9283576-7038225,2022-05-04,Shipped,Amazon,Non-Amazon,Standard,Western Dress,
 171-8790625-5281105,2022-06-26,Pending,Amazon,Amazon.in,Expedited,Western Dress,S,Unshipped,1,599.0,TELANGANA,False,6,June
 171-8790625-5281105,2022-06-26,Pending,Amazon,Amazon.in,Expedited,Western Dress,S,Unshipped,1,859.0,TELANGANA,False,6,June
 404-4201661-4896301,2022-06-26,Shipped,Amazon,Amazon.in,Expedited,kurta,L,Shipped,1,387.0,MAHARASHTRA,False,6,June
-408-6713817-2560368,2022-06-26,Shipped,Amazon,Amazon.in,Expedited,kurta,XL,Shipped,1,431.0,DADRA AND NAGAR HAVELI,False,6,June
+408-6713817-2560368,2022-06-26,Shipped,Amazon,Amazon.in,Expedited,kurta,XL,Shipped,1,431.0,DADRA AND NAGAR,False,6,June
 406-8347657-5280341,2022-06-26,Shipped,Amazon,Amazon.in,Expedited,Top,S,Shipped,1,574.0,MAHARASHTRA,False,6,June
 406-4833030-0218716,2022-06-26,Shipped,Amazon,Amazon.in,Expedited,kurta,M,Shipped,1,526.0,MAHARASHTRA,False,6,June
 403-6288312-6605941,2022-06-26,Shipped - Picked Up,Merchant,Amazon.in,Standard,kurta,S,Shipped,1,967.0,ANDHRA PRADESH,False,6,June
@@ -94659,7 +94659,7 @@ S02-9283576-7038225,2022-05-04,Shipped,Amazon,Non-Amazon,Standard,Western Dress,
 407-2533376-1900353,2022-06-26,Shipped - Picked Up,Merchant,Amazon.in,Standard,Top,M,Shipped,1,625.0,DELHI,False,6,June
 402-9959867-2105930,2022-06-26,Shipped,Amazon,Amazon.in,Expedited,Set,XL,Shipped,1,785.0,KARNATAKA,False,6,June
 408-7522244-0280362,2022-06-26,Shipped,Amazon,Amazon.in,Expedited,Set,S,Shipped,1,999.0,DELHI,False,6,June
-408-8307044-5225152,2022-06-26,Shipped,Amazon,Amazon.in,Expedited,Set,M,Shipped,1,717.0,DADRA AND NAGAR HAVELI,False,6,June
+408-8307044-5225152,2022-06-26,Shipped,Amazon,Amazon.in,Expedited,Set,M,Shipped,1,717.0,DADRA AND NAGAR,False,6,June
 402-6800881-5681924,2022-06-26,Shipped,Amazon,Amazon.in,Expedited,kurta,XXL,Shipped,1,496.0,UTTARAKHAND,False,6,June
 406-8026827-3490764,2022-06-26,Shipped - Picked Up,Merchant,Amazon.in,Standard,Set,L,Shipped,1,549.0,DELHI,False,6,June
 408-8736086-6958726,2022-06-26,Shipped - Picked Up,Merchant,Amazon.in,Standard,kurta,XL,Shipped,1,749.0,ODISHA,False,6,June
@@ -99887,7 +99887,7 @@ S02-9283576-7038225,2022-05-04,Shipped,Amazon,Non-Amazon,Standard,Western Dress,
 405-3799149-8071542,2022-06-21,Cancelled,Amazon,Amazon.in,Expedited,kurta,L,Unshipped,1,496.0,UTTARAKHAND,False,6,June
 408-5434244-1228356,2022-06-21,Shipped,Amazon,Amazon.in,Expedited,Set,M,Shipped,1,635.0,KARNATAKA,False,6,June
 408-7581018-5329961,2022-06-21,Shipped - Returning to Seller,Merchant,Amazon.in,Standard,Top,XS,Shipped,1,463.0,KERALA,False,6,June
-408-6167132-1925157,2022-06-21,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,Set,XS,Shipped,1,1031.0,DADRA AND NAGAR HAVELI,False,6,June
+408-6167132-1925157,2022-06-21,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,Set,XS,Shipped,1,1031.0,DADRA AND NAGAR,False,6,June
 171-3006504-7273917,2022-06-21,Cancelled,Merchant,Amazon.in,Standard,Western Dress,XXL,Shipped,0,700.0,KERALA,False,6,June
 405-6788461-0025158,2022-06-21,Shipped,Amazon,Amazon.in,Expedited,kurta,XS,Shipped,1,387.0,KARNATAKA,False,6,June
 406-6838316-6456345,2022-06-21,Shipped,Amazon,Amazon.in,Expedited,kurta,XL,Shipped,1,531.0,TAMIL NADU,False,6,June
@@ -105673,7 +105673,7 @@ S02-9283576-7038225,2022-05-04,Shipped,Amazon,Non-Amazon,Standard,Western Dress,
 406-0430501-8907557,2022-06-16,Shipped,Amazon,Amazon.in,Expedited,kurta,S,Shipped,1,432.0,MAHARASHTRA,False,6,June
 402-5314709-0369949,2022-06-16,Shipped,Amazon,Amazon.in,Expedited,Western Dress,M,Shipped,1,771.0,TELANGANA,False,6,June
 171-7116278-3606767,2022-06-16,Shipped,Amazon,Amazon.in,Expedited,Set,XS,Shipped,1,664.0,WEST BENGAL,False,6,June
-405-1159685-0111551,2022-06-16,Shipped,Amazon,Amazon.in,Expedited,kurta,XL,Shipped,1,635.0,DADRA AND NAGAR HAVELI,False,6,June
+405-1159685-0111551,2022-06-16,Shipped,Amazon,Amazon.in,Expedited,kurta,XL,Shipped,1,635.0,DADRA AND NAGAR,False,6,June
 405-0037194-5549915,2022-06-16,Shipped,Amazon,Amazon.in,Expedited,Western Dress,XXL,Shipped,1,625.0,KARNATAKA,False,6,June
 406-6892049-5480339,2022-06-16,Shipped,Amazon,Amazon.in,Expedited,Western Dress,L,Shipped,1,735.0,TELANGANA,False,6,June
 406-5549485-0245143,2022-06-16,Shipped,Amazon,Amazon.in,Expedited,Set,S,Shipped,1,569.0,KARNATAKA,False,6,June
@@ -106180,7 +106180,7 @@ S02-9283576-7038225,2022-05-04,Shipped,Amazon,Non-Amazon,Standard,Western Dress,
 404-4535862-1939523,2022-06-16,Shipped,Amazon,Amazon.in,Expedited,Set,S,Shipped,1,773.0,TAMIL NADU,False,6,June
 408-5005870-5853107,2022-06-16,Shipped,Amazon,Amazon.in,Expedited,Set,XL,Shipped,1,0.0,MAHARASHTRA,False,6,June
 407-2113374-3317110,2022-06-16,Shipped,Amazon,Amazon.in,Expedited,kurta,XL,Shipped,1,635.0,TELANGANA,False,6,June
-406-9150184-5846756,2022-06-16,Shipped,Amazon,Amazon.in,Expedited,Set,M,Shipped,1,648.0,DADRA AND NAGAR HAVELI,False,6,June
+406-9150184-5846756,2022-06-16,Shipped,Amazon,Amazon.in,Expedited,Set,M,Shipped,1,648.0,DADRA AND NAGAR,False,6,June
 407-8477263-6209944,2022-06-16,Shipped,Amazon,Amazon.in,Expedited,kurta,XL,Shipped,1,468.0,TAMIL NADU,False,6,June
 402-3345252-1661108,2022-06-16,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,Western Dress,3XL,Shipped,1,625.0,MAHARASHTRA,False,6,June
 405-7775619-0721146,2022-06-16,Shipped,Amazon,Amazon.in,Expedited,kurta,M,Shipped,1,380.0,MAHARASHTRA,False,6,June
@@ -107068,7 +107068,7 @@ S02-9283576-7038225,2022-05-04,Shipped,Amazon,Non-Amazon,Standard,Western Dress,
 406-4878976-8553942,2022-06-15,Shipped,Amazon,Amazon.in,Expedited,Western Dress,XS,Shipped,1,791.0,KERALA,False,6,June
 408-6021613-4088328,2022-06-15,Shipped,Amazon,Amazon.in,Expedited,Set,3XL,Shipped,1,635.0,TELANGANA,False,6,June
 408-4278636-6063504,2022-06-15,Shipped,Amazon,Amazon.in,Expedited,kurta,S,Shipped,1,435.0,MAHARASHTRA,False,6,June
-171-0798697-5080363,2022-06-15,Shipped,Amazon,Amazon.in,Expedited,Set,3XL,Shipped,1,1399.0,DADRA AND NAGAR HAVELI,False,6,June
+171-0798697-5080363,2022-06-15,Shipped,Amazon,Amazon.in,Expedited,Set,3XL,Shipped,1,1399.0,DADRA AND NAGAR,False,6,June
 408-9992261-0819556,2022-06-15,Cancelled,Amazon,Amazon.in,Expedited,Set,M,Unshipped,1,699.0,RAJASTHAN,False,6,June
 406-1392760-9493918,2022-06-15,Shipped,Amazon,Amazon.in,Expedited,Set,XXL,Shipped,1,543.0,UTTAR PRADESH,False,6,June
 405-8864029-8488358,2022-06-15,Shipped,Amazon,Amazon.in,Expedited,kurta,S,Shipped,1,471.0,ANDHRA PRADESH,False,6,June
@@ -108360,8 +108360,8 @@ S02-6464729-2944744,2022-06-15,Shipping,Amazon,Non-Amazon,Standard,Set,L,Unshipp
 407-7549716-4469168,2022-06-14,Shipped,Amazon,Amazon.in,Expedited,kurta,L,Shipped,1,441.0,TELANGANA,False,6,June
 407-5501557-7229126,2022-06-14,Shipped,Amazon,Amazon.in,Expedited,kurta,XS,Shipped,1,883.0,TELANGANA,False,6,June
 403-8353335-5765963,2022-06-14,Shipped,Amazon,Amazon.in,Expedited,Western Dress,XS,Shipped,1,735.0,MAHARASHTRA,False,6,June
-171-5322772-6758766,2022-06-14,Cancelled,Merchant,Amazon.in,Standard,Top,S,Shipped,0,606.0,DADRA AND NAGAR HAVELI,False,6,June
-171-5322772-6758766,2022-06-14,Cancelled,Merchant,Amazon.in,Standard,kurta,S,Shipped,0,606.0,DADRA AND NAGAR HAVELI,False,6,June
+171-5322772-6758766,2022-06-14,Cancelled,Merchant,Amazon.in,Standard,Top,S,Shipped,0,606.0,DADRA AND NAGAR,False,6,June
+171-5322772-6758766,2022-06-14,Cancelled,Merchant,Amazon.in,Standard,kurta,S,Shipped,0,606.0,DADRA AND NAGAR,False,6,June
 408-0448101-8825927,2022-06-14,Shipped,Amazon,Amazon.in,Expedited,kurta,3XL,Shipped,1,301.0,KARNATAKA,False,6,June
 408-0518172-7654729,2022-06-14,Shipped,Amazon,Amazon.in,Expedited,Western Dress,3XL,Shipped,1,735.0,PUNJAB,False,6,June
 402-0521354-6410761,2022-06-14,Shipped,Amazon,Amazon.in,Expedited,kurta,XL,Shipped,1,432.0,CHANDIGARH,False,6,June
@@ -111836,9 +111836,9 @@ S02-6464729-2944744,2022-06-15,Shipping,Amazon,Non-Amazon,Standard,Set,L,Unshipp
 404-3320201-7616317,2022-06-12,Shipped,Amazon,Amazon.in,Expedited,kurta,M,Shipped,1,376.0,TELANGANA,False,6,June
 406-4494073-5657152,2022-06-12,Shipped,Amazon,Amazon.in,Expedited,Set,S,Shipped,1,895.0,KERALA,False,6,June
 171-1530747-7948317,2022-06-12,Shipped,Amazon,Amazon.in,Expedited,Set,S,Shipped,1,569.0,GUJARAT,False,6,June
-403-6300874-4721168,2022-06-12,Shipped,Amazon,Amazon.in,Expedited,kurta,M,Shipped,1,458.0,DADRA AND NAGAR HAVELI,False,6,June
-403-6300874-4721168,2022-06-12,Shipped,Amazon,Amazon.in,Expedited,Set,M,Shipped,1,1075.0,DADRA AND NAGAR HAVELI,False,6,June
-403-6300874-4721168,2022-06-12,Shipped,Amazon,Amazon.in,Expedited,Set,M,Shipped,1,573.0,DADRA AND NAGAR HAVELI,False,6,June
+403-6300874-4721168,2022-06-12,Shipped,Amazon,Amazon.in,Expedited,kurta,M,Shipped,1,458.0,DADRA AND NAGAR,False,6,June
+403-6300874-4721168,2022-06-12,Shipped,Amazon,Amazon.in,Expedited,Set,M,Shipped,1,1075.0,DADRA AND NAGAR,False,6,June
+403-6300874-4721168,2022-06-12,Shipped,Amazon,Amazon.in,Expedited,Set,M,Shipped,1,573.0,DADRA AND NAGAR,False,6,June
 408-5303902-2625901,2022-06-12,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,kurta,L,Shipped,1,387.0,GUJARAT,False,6,June
 171-5153704-5869132,2022-06-12,Shipped - Returned to Seller,Merchant,Amazon.in,Standard,kurta,XL,Shipped,1,399.0,UTTAR PRADESH,False,6,June
 407-4314459-7161148,2022-06-12,Shipped,Amazon,Amazon.in,Expedited,Set,3XL,Shipped,1,845.0,UTTAR PRADESH,False,6,June
@@ -113958,10 +113958,10 @@ S02-6464729-2944744,2022-06-15,Shipping,Amazon,Non-Amazon,Standard,Set,L,Unshipp
 402-6564226-6297938,2022-06-10,Shipped,Amazon,Amazon.in,Expedited,Set,L,Shipped,1,537.0,JHARKHAND,False,6,June
 406-4411557-3274705,2022-06-10,Shipped,Amazon,Amazon.in,Expedited,Set,XL,Shipped,1,999.0,UTTAR PRADESH,False,6,June
 171-3261071-6130734,2022-06-10,Shipped,Amazon,Amazon.in,Expedited,kurta,M,Shipped,1,735.0,UTTAR PRADESH,False,6,June
-403-5875207-1960347,2022-06-10,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,kurta,M,Shipped,1,487.0,DADRA AND NAGAR HAVELI,False,6,June
-403-1732120-7497121,2022-06-10,Shipped,Amazon,Amazon.in,Expedited,Set,M,Shipped,1,573.0,DADRA AND NAGAR HAVELI,False,6,June
-403-1732120-7497121,2022-06-10,Shipped,Amazon,Amazon.in,Expedited,kurta,M,Cancelled,0,606.0,DADRA AND NAGAR HAVELI,False,6,June
-403-1732120-7497121,2022-06-10,Shipped,Amazon,Amazon.in,Expedited,Set,M,Cancelled,0,606.0,DADRA AND NAGAR HAVELI,False,6,June
+403-5875207-1960347,2022-06-10,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,kurta,M,Shipped,1,487.0,DADRA AND NAGAR,False,6,June
+403-1732120-7497121,2022-06-10,Shipped,Amazon,Amazon.in,Expedited,Set,M,Shipped,1,573.0,DADRA AND NAGAR,False,6,June
+403-1732120-7497121,2022-06-10,Shipped,Amazon,Amazon.in,Expedited,kurta,M,Cancelled,0,606.0,DADRA AND NAGAR,False,6,June
+403-1732120-7497121,2022-06-10,Shipped,Amazon,Amazon.in,Expedited,Set,M,Cancelled,0,606.0,DADRA AND NAGAR,False,6,June
 408-0351441-7073129,2022-06-10,Shipped,Amazon,Amazon.in,Expedited,Set,M,Shipped,1,0.0,RAJASTHAN,False,6,June
 171-2835438-4349138,2022-06-10,Shipped,Amazon,Amazon.in,Expedited,kurta,XL,Shipped,1,496.0,KARNATAKA,False,6,June
 404-0153425-7606767,2022-06-10,Shipped,Amazon,Amazon.in,Expedited,Western Dress,XL,Shipped,1,735.0,MAHARASHTRA,False,6,June
@@ -116373,7 +116373,7 @@ S02-6464729-2944744,2022-06-15,Shipping,Amazon,Non-Amazon,Standard,Set,L,Unshipp
 171-7651025-8559529,2022-06-08,Shipped,Amazon,Amazon.in,Expedited,Western Dress,XXL,Shipped,1,735.0,MAHARASHTRA,False,6,June
 405-5079440-7523524,2022-06-08,Shipped,Amazon,Amazon.in,Expedited,Set,XL,Shipped,1,773.0,HARYANA,False,6,June
 408-5775399-0686727,2022-06-08,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,kurta,XXL,Shipped,1,301.0,UTTARAKHAND,False,6,June
-407-5985308-7707506,2022-06-08,Cancelled,Merchant,Amazon.in,Standard,Set,L,Shipped,0,435.24,DADRA AND NAGAR HAVELI,False,6,June
+407-5985308-7707506,2022-06-08,Cancelled,Merchant,Amazon.in,Standard,Set,L,Shipped,0,435.24,DADRA AND NAGAR,False,6,June
 407-7035108-8980350,2022-06-08,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,Set,XL,Shipped,1,1149.0,BIHAR,False,6,June
 407-4041701-7622751,2022-06-08,Shipped,Amazon,Amazon.in,Expedited,Top,S,Shipped,1,729.0,WEST BENGAL,False,6,June
 403-8515864-4798721,2022-06-08,Shipped,Amazon,Amazon.in,Expedited,Set,XL,Shipped,1,666.0,DELHI,False,6,June
@@ -117939,7 +117939,7 @@ S02-9176732-4357939,2022-06-08,Shipped,Amazon,Non-Amazon,Standard,Set,M,Unshippe
 404-5274586-0696314,2022-06-07,Shipped,Amazon,Amazon.in,Expedited,Set,XL,Shipped,1,1186.0,MADHYA PRADESH,False,6,June
 405-9313987-5091556,2022-06-07,Shipped,Amazon,Amazon.in,Expedited,Set,XXL,Shipped,1,771.0,UTTAR PRADESH,False,6,June
 408-2272520-9440332,2022-06-07,Shipped,Amazon,Amazon.in,Expedited,kurta,M,Shipped,1,399.0,DELHI,False,6,June
-407-3182303-0233969,2022-06-07,Cancelled,Merchant,Amazon.in,Standard,Set,L,Shipped,0,435.24,DADRA AND NAGAR HAVELI,False,6,June
+407-3182303-0233969,2022-06-07,Cancelled,Merchant,Amazon.in,Standard,Set,L,Shipped,0,435.24,DADRA AND NAGAR,False,6,June
 402-6736074-0418735,2022-06-07,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,Western Dress,3XL,Shipped,1,771.0,MAHARASHTRA,False,6,June
 171-5731955-9868351,2022-06-07,Shipped,Amazon,Amazon.in,Expedited,Top,3XL,Shipped,1,869.0,UTTAR PRADESH,False,6,June
 406-2615789-7298744,2022-06-07,Shipped,Amazon,Amazon.in,Expedited,kurta,3XL,Shipped,1,432.0,UTTAR PRADESH,False,6,June
@@ -118239,7 +118239,7 @@ S02-9176732-4357939,2022-06-08,Shipped,Amazon,Non-Amazon,Standard,Set,M,Unshippe
 403-4938074-3182723,2022-06-07,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,Set,M,Shipped,1,999.0,UTTAR PRADESH,False,6,June
 171-7663812-4415541,2022-06-07,Cancelled,Amazon,Amazon.in,Expedited,kurta,M,Unshipped,1,376.0,KARNATAKA,False,6,June
 171-1373736-4922715,2022-06-07,Shipped,Amazon,Amazon.in,Expedited,Set,3XL,Shipped,1,969.0,WEST BENGAL,False,6,June
-404-3832676-3873937,2022-06-07,Shipped,Amazon,Amazon.in,Expedited,Top,L,Shipped,1,693.0,DADRA AND NAGAR HAVELI,False,6,June
+404-3832676-3873937,2022-06-07,Shipped,Amazon,Amazon.in,Expedited,Top,L,Shipped,1,693.0,DADRA AND NAGAR,False,6,June
 403-3645145-4748355,2022-06-07,Shipped,Amazon,Amazon.in,Expedited,kurta,L,Shipped,1,434.0,GUJARAT,False,6,June
 403-3645145-4748355,2022-06-07,Shipped,Amazon,Amazon.in,Expedited,kurta,L,Shipped,1,468.0,GUJARAT,False,6,June
 403-3645145-4748355,2022-06-07,Shipped,Amazon,Amazon.in,Expedited,kurta,L,Shipped,1,376.0,GUJARAT,False,6,June
@@ -127174,7 +127174,7 @@ S02-7324586-1573702,2022-06-04,Shipped,Amazon,Non-Amazon,Standard,Set,3XL,Unship
 405-8943245-7968363,2022-06-01,Shipped,Amazon,Amazon.in,Expedited,Set,S,Shipped,1,721.0,WEST BENGAL,False,6,June
 403-1899451-8549945,2022-06-01,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,Western Dress,3XL,Shipped,1,735.0,GUJARAT,False,6,June
 171-5996851-4623562,2022-06-01,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,kurta,S,Shipped,1,301.0,DELHI,False,6,June
-404-1058404-5975559,2022-06-01,Shipped,Amazon,Amazon.in,Expedited,kurta,M,Shipped,1,435.0,DADRA AND NAGAR HAVELI,False,6,June
+404-1058404-5975559,2022-06-01,Shipped,Amazon,Amazon.in,Expedited,kurta,M,Shipped,1,435.0,DADRA AND NAGAR,False,6,June
 406-4726224-4889945,2022-06-01,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,Western Dress,S,Shipped,1,792.0,MAHARASHTRA,False,6,June
 171-4105564-9381959,2022-06-01,Shipped,Amazon,Amazon.in,Expedited,kurta,M,Shipped,1,458.0,MADHYA PRADESH,False,6,June
 402-1157815-4053937,2022-06-01,Cancelled,Amazon,Amazon.in,Expedited,Set,M,Unshipped,1,774.0,MADHYA PRADESH,False,6,June
